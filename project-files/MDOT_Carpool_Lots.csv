@@ -1,0 +1,1176 @@
+﻿X,Y,UNIQ_GIS_ID,PR_VERS_NUM,PR_NUM,PR_MP,FACL_ID,FACL_TYP_CD,FACL_ENTR_TYPE_CD,FACL_NAME,CRPL_PRMY_RTE_NAME,CRPL_LOT_LOC_NAME,CRPL_EXIT_NUM,CRPL_QUAD_CD,CRPL_DRTN_TXT,ENTR_SIGN_IND,USAGE_COND_YR,CRPL_LOT_CPCY,CRPL_LOT_USGE_QTY,AREA_LIT_DESC,SURF_TYP_DESC,CNTY_CD,FACL_PHYS_ADDR,CRPL_ENTR_PASER_COND_CD,CRPL_LOT_PASER_COND_CD
+-85.5632009569999,42.2457919560001,294,17,6903,2.628,739004,CL,P,Kalamazoo/Portage - East,I-94,Portage Road/Kilgore Road,78,NW,"From eastbound I-94 take exit 78 and turn left/north onto Portage Road. Turn right/east onto Kilgore Road (north of I-94 overpass) and take a ""Michigan left"" onto westbound Kilgore Road. Lot is on the right/north.
+
+From westbound I-94 take exit 78 and merge onto westbound Kilgore Road. Lot is on the right north (west of Portage Street intersection).",Yes,2019,72,33,Near,Paved,39,"1500 E. Kilgore Rd
+Kalamazoo, Mi 49001",6,6
+-85.643493802,42.198262716,295,17,10604,0.845,739003,CL,P,Portage,US-131,Centre Avenue,31,SE,"From southbound US-131 take exit 31 in Portage (3 miles south of I-94 exit 74).  Turn left/east onto Centre Avenue.  Turn right/south onto Angling Road (first road east of interchange).  Lot is first right/east.
+
+From northbound US-131 take exit 31 in Portage.  Turn right/east onto Centre Avenue.  Turn right/south onto Angling Road (first road east of interchange).  Lot is first right/east.",Yes,2019,72,15,Yes,Paved,39,"8316 Angling Rd
+Portage, Mi 49024",8,8
+-85.6145492539999,42.239296966,296,17,13702,0.72,739001,CL,P,Kalamazoo/Portage - West,I-94,Oakland Avenue,75,NW,"From westbound I-94 take exit 75 at Kalamazoo.  Turn right/north onto Oakland Avenue.  Turn left/west onto Vincent Drive (first left/west).  Lot is first left/south.
+
+From eastbound I-94 take exit 75 at Kalamazoo (1 mile east of US-131 exit 34).  Turn left/north onto Oakland Avenue.  Turn left/west onto Vincent Drive (first left/west past interchange).  Lot is first left/south.",Yes,2019,119,62,Yes,Paved,39,"2500 Vincent Dr
+Portage, MI 49024",5,5
+-85.6568670949999,42.267904663,297,17,22207,5.932,739005,CL,P,Kalamazoo - Stadium Drive,US - 131,Stadium Dr,36,SW,"From northbound US-131 take exit 36 and take the left lane to merge onto westbound Stadium Drive. Turn left/south at the intersection with 11th Street. Lot entrance is on left/east.
+
+From southbound US-131 take exit 36 and take the right lane to merge onto westbound Stadium Drive. Turn left/south at the intersection with 11th Street. Lot entrance is on left/east.",Yes,2019,85,27,Yes,Paved,39,"5580 Stadium Dr
+Kalamazoo, MI 49009
+",10,10
+-84.7325338049999,42.796633818,298,17,208306,5.623,519003,CL,P,Grand Ledge,I-96,M-100,86,NA,"From westbound I-96 take exit 86/M-100/Wright Road north of Grand Ledge.  Turn left/south onto M-100.  Turn left/east onto Grand River Avenue (first road south of interchange).  Lot is fifth left/north.
+
+From eastbound I-96 take exit 86/M-100/Wright Road north of Grand Ledge.  Turn right/south onto M-100.  Turn left/east onto Grand River Avenue (first road south of interchange).  Lot is fifth left/north.
+
+From northbound M-100 turn right/east onto Grand River Avenue about 3 miles north of Grand Ledge.  Lot is fifth left/north.",Yes,2019,40,11,Near,Paved,19,"10650 W Grand River Hwy
+Eagle, Mi 48822",7,7
+-84.670943634,42.7851693280001,299,17,208306,8.853,519004,CL,P,Lansing - Northwest,I-96,Grand River Avenue,90,NE,"From westbound I-96 (northbound I-69 stay on I-96) take exit 90/Business I-96/Grand River Avenue northwest of Lansing.  Turn left/west onto Grand River Avenue.  Lot is first right/north inside interchange.
+
+From eastbound I-96 take exit 90/ Business I-96/Grand River Avenue northwest of Lansing.  Turn left/east.  Lot is first left/north inside interchange just past overpass.
+
+From westbound I-69 take exit 81 to Francis Road (stay right) northwest of Lansing.  Turn left/south onto Francis Road.  Turn right/west onto Grand River Avenue (where Francis Road ends).  Lot is first right/north past I-96 on-ramp inside interchange.
+
+From westbound Business I-96/Grand River Avenue lot is first right/north past I-96 on-ramp inside interchange northwest of Lansing.",Yes,2019,58,28,Yes,Paved,19,"7585 W Grand River Hwy, Watertown Twp, Mi 48906",4,6
+-84.514078523,42.856608857,300,17,208403,16.787,519007,CL,P,DeWitt,US-127,Round Lake Road,86,SE,"From northbound US-127 take Round Lake Road (Exit 86).  Turn left/east onto Round Lake Road.  Lot is first right/south.  
+
+From southbound US-127 take Round Lake Road (Exit 86).  Turn left/east onto Round Lake Road.  Lot is first right/south past interchange.",Yes,2019,39,10,No,Paved,19,"2377 E Round Lake Rd
+Dewitt, Mi 48820",4,5
+-84.522976786,43.001368529,301,17,208909,15.929,519005,CL,P,St. Johns,US-127,M-21,96,NW,"From northbound US-127 take M-21 (Exit 96) east of St. Johns.  Turn left/west onto M-21.  Lot is first right/north after southbound US-127 on-ramp.
+
+From southbound US-127 take M-21 (Exit 96) east of St. Johns.  Turn right/west onto M-21.  Lot is first right/north.
+
+From eastbound M-21 in St. Johns lot is last left/north before southbound US-127 on-ramp at US-127 interchange east of town.
+
+From westbound M-21 lot is first right/north west of southbound US-127 on-ramp at interchange east of St. Johns (8 miles west of Ovid).",Yes,2019,89,27,No,Paved,19,"1980 M-21
+St Johns, Mi 48879",3,3
+-84.5239388,42.929994133,303,17,213910,0.082,519006,CL,P,St. Johns - South,US-127,Price Road,91,NW,"From northbound US-127 take Price Road (Exit 91) north of DeWitt.  Turn left/west onto Price Road.  Lot is first right/north past southbound US-127 on-ramp.
+
+From southbound US-127 take Price road (Exit 91) south of St. Johns.  Turn right/west onto Price Road.  Lot is first right/north.",Yes,2019,108,10,No,Paved,19,"5900 S Williams Rd
+St Johns, Mi 48879",3,3
+-86.379569835,43.956221064,304,17,216003,3.622,553001,CL,P,Ludington,US-10/US-31,Brye Rd,,NW,"From westbound US-10, take right/north at Brye Rd.  Lot is first left/west.
+
+From US-31, take left/north at Brye Rd.  Lot is first left/west",Yes,2019,30,7,Near,Paved,53,"53 N Brye Rd
+Ludington, Mi 49431",7,7
+-85.635669239,42.031710375,305,17,238202,13.296,778001,CL,P,Moorepark,US-131,M-216,,SW,"Southbound I-69: exit #25 (M-60), turn left/east on M-60; lot on north side of M-60.
+
+Northbound I-69: exit #25 (M-60), left/west on M-60; lot on north side of M-60.",Yes,2019,29,5,No,Paved,78,"52709 U.S. 131
+Three Rivers, Mi 49093",6,6
+-84.678122323,43.5228213330001,306,17,242001,0.933,537002,CL,P,Shepherd,US-127,Blanchard Road,135,SW,,Yes,2019,25,2,Yes,Paved,37,"8190 S Genuine Rd
+Shepherd, Mi 48883",7,7
+-84.7390653159999,43.6116041060001,307,17,242308,15.446,537001,CL,P,Mt. Pleasant,US-127,M-20,143,SW,"From northbound US-127 take M-20 (Exit 143) at Mt. Pleasant (second Mt. Pleasant exit). Turn right/west onto M-20. Lot is first left/south past overpass inside interchange.
+
+From southbound US-127 take M-20 (Exit 143) at Mt. Pleasant (second Mt. Pleasant exit). Turn left/west onto M-20. Lot is first right/south inside interchange.
+
+From westbound M-20 in Mt. Pleasant lot is first left/south past freeway overpass inside US-127/M-20 interchange west of town.
+
+From eastbound M-20 in Mt. Pleasant lot is first right/south past southbound US-127 on-ramp inside US-127/M-20 interchange.",Yes,2019,36,7,Yes,Paved,37,"5417 E Pickard Rd
+Mt Pleasant, Mi 48858",7,8
+-83.28522736,43.4100508930001,308,17,269804,5.969,679002,CL,P,Kingston,M-46,Hurds Corner Road,,SW,"From eastbound M-46 turn right/south onto Hurds Corner Road 5 miles east of M-24 intersection south of Caro.  Lot is first right/west.
+
+From westbound M-46 turn left/south onto Hurds Corner Road 5 miles west of Kingston (10 miles west of M-53 intersection).  Lot is first left/west.",Yes,2019,20,7,Yes,Paved,79,"3516-3564 Hurds Corner Rd Mayville, MI 48744",7,7
+-83.322687523,43.3351897090001,309,17,269810,0.082,679001,CL,P,Mayville,M-24,Treasurer Road,,NE,"From northbound M-24 turn right/east onto Treasurer Road about 8 miles north of M-90 junction north of Lapeer.  Lot is first left/west.
+
+From southbound (eastbound) M-24 turn left/north onto Treasurer Road about 1.5 miles east of Mayville.  Lot is first left/west.",Yes,2019,22,8,Yes,Paved,79,"6598 Treasurer Rd, Mayville, MI 48744",6,6
+-84.476464565,42.6403064310001,310,17,352307,6.444,833004,CL,P,Holt,US-127,Holt Road,70,NE,,Yes,2019,56,16,No,Paved,33,"3324 Holt Rd, Mason, MI 48854",5,6
+-84.4403472499999,42.4504271690001,311,17,354105,0.978,833007,CL,P,Leslie,US-127,Bellevue Road,56,SW,"From southbound US-127, take Holt Road (Exit 70) south of Lansing (3.5 miles south of I-96 exit 106). Turn left/east onto Holt Road. Lot is first left/north inside interchange.
+
+From northbound US-127, take Holt Road (Exit 70) north of Mason. Turn left/west onto Holt Road. Lot is first right/north inside interchange. ",Yes,2019,22,9,Near,Paved,33,"4616 S Hull Rd, Leslia, MI 49251",7,6
+-84.282023921,42.6633057060001,312,17,360204,4.296,833002,CL,P,Williamston,I-96,Williamston Road,117,SE,"From eastbound I-96, take exit 117 for southbound Williamston Road near Williamston. Turn right/south onto Williamston Road. Lot is first left/east.
+
+From westbound I-96, take exit 117 near Williamston. Turn left/south onto Williamston Road. Lot is first left/east past eastbound I-96 on-ramp.",Yes,2019,37,19,Near,Paved,33,"2598 N Williamston Rd, Williamston, MI 48895",7,10
+-84.1981923609999,42.660805124,313,17,360401,7.552,833003,CL,P,Webberville,I-96,M-52,122,NW,,Yes,2019,86,35,Near,Paved,33,"2625 Michigan 52, Williamston, MI 48895",7,6
+-84.440262237,42.5240683910001,315,17,362007,8.343,833001,CL,P,Eden,US-127,Barnes Road,61,NE,"From southbound US-127, take Holt Road (Exit 70) south of Lansing (3.5 miles south of I-96 exit 106). Turn left/east onto Holt Road. Lot is first left/north inside interchange.
+
+From northbound US-127, take Holt Road (Exit 70) north of Mason. Turn left/west onto Holt Road. Lot is first right/north inside interchange. ",Yes,2019,14,9,No,Paved,33,"127 S Barnes St, Mason, Michigan 48854-1619",6,6
+-84.445033998,42.567723754,317,17,362101,3.079,833009,CL,P,Mason - Meijer,US-127,Hull Road,64,SE,,Yes,2015,50,,Yes,Paved,33,"550 Hull Road,
+Mason, MI 48854",,
+-85.659341202,43.043726629,318,17,405602,2.672,541008,CL,P,Grand Rapids/Comstock Park,US-131,West River Road,91,SE,"From northbound US-131 take exit 91 north of Grand Rapids.  Turn right/southwest onto West River Road.  Lot is first right/northwest inside interchange.
+
+From southbound US-131 take exit 91 north of Grand Rapids.  Turn left/northeast onto West River Road.  Lot is first left/northwest past freeway overpass inside interchange.",Yes,2019,75,44,Yes,Paved,41,"4395 West River Dr NE
+Comstock Park, Mi 49321",7,7
+-85.590712,42.971459,319,17,405708,0.339,541004,CL,P,Grand Rapids - Kentwood,I-96,M-44/M-37/East Beltline,38,SE,"From westbound I-96 take exit 38/M-44/M-37/East Beltline east of Grand Rapids.  Turn right/north onto M-44/East Beltline and take first left (at first light) to southbound M-37/East Beltline.  Lot is first left/east at first light past overpass.
+
+From eastbound I-96/M-37 take exit 38/M-44/M-37/East Beltline east of Grand Rapids.  Lot entrance is directly across from end of off-ramp at light.
+
+From northbound M-37/East Beltline turn right/west at first light at I-96 interchange east of Grand Rapids.  This is the lot entrance.
+
+From southbound M-44/East Beltline continue across overpass at I-96 interchange east of Grand Rapids.  Turn left/east at first light.  This is the lot entrance.",Yes,2019,161,98,Yes,Paved,41,"3250 Deposit Dr NE, Grand Rapids, MI 49546",7,7
+-85.578145475,43.0725731740001,320,17,407503,3.239,541002,CL,P,Grand Rapids/Rockford,M-44,7 Mile Road,,NE,"From eastbound (northbound) M-44 lot is first right/east past 7 Mile Road about 1 mile north of M-44 Connector/ Plainfield Road northeast of Grand Rapids.
+
+From westbound (southbound) M-44 lot is last left/east before 7 Mile Road about 1.5 miles south of Belding Road intersection south of Rockford.",Yes,2019,20,5,No,Paved,41,"6050 Northland Dr NE
+Rockford, Mi 49341",8,8
+-85.373159056,42.9307698540001,321,17,409005,17.692,541015,CL,P,Lowell - Meijer,I-96,Fulton Street,52,N,,Yes,2015,50,,Yes,Paved,41,"11901 Fulton St, 
+Lowell, MI 49331",,
+-85.531673263,42.9129324290001,322,17,409008,18.585,541014,CL,P,Grand Rapids - Meijer,I-96,28th St,43,NE,,Yes,2015,50,,Yes,Paved,41,"5531 28th Street
+S.E., Grand Rapids
+MI 49512",,
+-85.541003034,42.8546156150001,323,17,409510,6.539,541013,CL,P,Grand Rapids/South Beltline E.,M-6,M-37 and 60th St.,15,SE,"From westbound M-6 exit number 15.  Turn Left (north) on M-37.  Next intersection is 60th St. SE - turn Right (east).  Lot is immediately on the Right (south).
+
+From eastbound M-6 exit number 15.  Turn Right (north) on M-37.  Next intersection is 60th St. SE - turn Right (east).  Lot is immediately on the Right (south). ",Yes,2019,86,24,Yes,Paved,41,"5040 60th St SE
+Grand Rapids, Mi 49512",7,6
+-85.577006836,43.1756191700001,324,17,410710,3.749,541001,CL,P,Edgerton,US-131,M-57/14 Mile Road,101,SW,"From northbound US-131 take exit 101/M-57 north of Rockford.  Turn left/west onto M-57.  Lot is first left/south inside interchange.
+
+From southbound US-131 take exit 101/M-57 south of Cedar Springs.  Turn left/east onto M-57.  Lot is first right/south inside interchange.
+
+From westbound M-57 lot is first left/south past US-131 overpass inside interchange west of Greenville.",Yes,2019,70,26,Yes,Paved,41,"3765 14 Mile Rd NE
+Cedar Springs, Mi 49319",7,6
+-85.726395484,43.161042579,326,17,444908,3.231,541003,CL,P,Sparta,M-37,13 Mile Road,,SW,"From northbound M-37 turn left/west onto 13 Mile Road near Sparta.  Lot is first left/south.
+
+From southbound M-37 turn right/west onto 13 Mile Road near Sparta.  Lot is first left/south.",Yes,2019,30,4,Yes,Paved,41,"2193 13 Mile Rd NW, Sparta, MI 49345",8,8
+-85.751651545,43.2119938050001,327,17,445004,0.974,541010,CL,P,Kent City,M-37,Peach Ridge Road,,NW,"From northbound M-37 in Kent City (about 14 miles north of I-96) turn left/south onto Peach Ridge Avenue.  Turn right/west onto Rusco Road (next right).  Lot is first left/south.
+
+From southbound M-37 turn right/south onto Peach Ridge Avenue about 0.75 miles south of M-46 junction west of Kent City.  Turn right/west onto Rusco Road (next right).  Lot is first left/south.",Yes,2019,28,2,Yes,Paved,41,"Rusco Rd
+Kent City, Mi 49330",6,7
+-85.5775108079999,43.2198139280001,328,17,445005,10.754,541005,CL,P,Cedar Springs,US-131,M-46/17 Mile Road,104,SW,"From northbound US-131 take exit 104/M-46/17 Mile Road at Cedar Springs.  Turn left/west onto M-46/17 Mile Road.  Lot is first left/south inside interchange.
+
+From southbound US-131 take exit 104/M-46/17 Mile Road at Cedar Springs.  Turn left/east onto 17 Mile Road.  Lot is first right/south inside interchange.
+
+From eastbound M-46/17 Mile Road lot is first right/south past southbound US-131 on-ramp inside US-131/M-46 interchange.",Yes,2019,95,16,Yes,Paved,41,"3725 17 Mile Rd NE
+Cedar Springs, Mi 49319",7,7
+-85.6101386449999,43.116930306,329,17,445106,9.055,541007,CL,P,Rockford,US-131,10 Mile Road,97,SW,"From northbound US-131 take exit 97/10 Mile Road near Rockford.  Turn left/west onto 10 Mile Road.  Lot is first left/south beyond interchange.
+
+From southbound US-131 take exit 97/10 Mile Road near Rockford.  Turn right/west onto 10 Mile Road.  Lot is first left/south.",Yes,2019,45,19,Yes,Paved,41,"2335 10 Mile Rd NE
+Rockford, Mi 49341",8,8
+-84.139399855,43.2974347150001,330,17,465106,0.132,673005,CL,P,St. Charles,M-52/Bell Ave.,Marcy Street,,SE,"From northbound M-52 in St. Charles continue straight ahead on Bell Street when M-52 turns left/north onto Saginaw Street. Lot lies on right/south 1 block beyond Saginaw/Bell intersection.
+
+From southbound M-52 in St. Charles turn left/east onto Bell Street where M-52 turns right/west onto Bell Street. Lot lies on right/south 1 block east of Saginaw/Bell intersection.",Yes,2019,16,5,Yes,Paved,73,"116 Marcy St Charles, MI 48655",2,2
+-83.8657896619999,43.351257602,331,17,468305,10.928,673004,CL,P,Bridgeport,I-75,Dixie Highway,144,NW,"From northbound I-75, take exit 144 near Bridgeport. Turn left/northwest onto Dixie Highway. Lot is first right/north past freeway inside interchange.
+
+From southbound I-75, take exit 144 near Bridgeport. Turn left/southeast onto Dixie Highway. Lot is first left/north inside interchange.",Yes,2019,106,36,Yes,Paved,73,"6415 Dixie Hwy, Bridgeport, MI 48722",6,6
+-83.9890020839999,43.1749351,332,17,474104,2.944,673002,CL,P,Layton Corners,M-57,Lincoln Road,,SW,"From eastbound M-57, the lot is on the right/south about 1 mile east of Briggs Road at Maple Grove Township Hall about 6 miles east of Chesaning.
+
+From westbound M-57, the lot is the third left/south past Lincoln Road at Maple Grove Township Hall about 5 miles west of Montrose.",Yes,2019,42,4,Yes,Paved,73,"4057 Peet Rd, Chesaning, MI 48616",4,4
+-84.0916519799999,43.4856693420001,333,17,476509,0.043,673003,CL,P,Freeland,M-47,Garfield Road,,SE,"From northbound M-47, turn right/north onto Garfield Road about 4.5 miles north of M-58 intersection west of Saginaw. Lot is first right/east.
+
+From southbound M-47, turn left/north onto Garfield Road about 3 miles south of Freeland. Lot is first right/east.",Yes,2019,25,5,No,Paved,73,"5346 Garfield Rd, Saginaw, MI 48603",7,7
+-84.1689672479999,43.186843621,334,17,483309,4.017,673001,CL,P,Chesaning/Oakley,M-52,M-57,,NW,"From northbound M-52, lot is first left/west past M-57 intersection 13 miles north of Owosso.
+
+From southbound M-52, lot is last right/west before M-57 intersection 8 miles south of St. Charles.
+
+From eastbound M-57, turn left/north onto M-52 3 miles west of Chesaning (20 miles east of US-27 intersection south of Ithaca).  Lot is first left/west.
+
+From westbound M-57, turn right/north onto M-52 3 miles west of Chesaning.  Lot is first left/west.",Yes,2019,20,4,Near,Paved,73,"15948 S Oakley Rd, Chesaning, MI 48616",6,6
+-84.5692296679999,43.176001882,335,17,497406,13.506,529002,CL,P,Perrinton/Ashley #1 (NW),US-127,M-57,109,NW,"Northwest Quadrant Lot
+From northbound US-127 take M-57 (Exit 109). Turn left/west onto M-57. Turn right/north onto Romney Road, first right/north past the overpass. Lot is first right/east.
+
+From southbound US-127 take M-57 (Exit 109). Turn left/west onto M-57. Turn right/north onto Romney Road, first right/north past the overpass. Lot is first right/east.
+
+Southeast Quadrant Lot
+From northbound US-127 take M-57 (Exit 109). Turn right/east onto M-57. Turn right/south onto Bagley Road. Lot is first right/west.
+
+From southbound US-127 take M-57 (Exit 109). Turn right/east onto M-57. Turn right/south onto Bagley Road. Lot is first right/west.",Yes,2019,54,15,Yes,Paved,29,"Romney Rd, Ashley, MI 48806",7,7
+-84.5584953979999,43.175971911,336,17,497406,14.048,529005,CL,P,Perrinton/Ashley #2 (SE),US-127,M-57,109,SE,"Southeast Quadrant Lot
+From northbound Us-127 take M-57 (Exit 109). Turn right/east onto M-57. Turn right/south onto Bagley Rd. (first right/south). Lot is right/west. From southbound US-127 turn right/east onto M-57 (Exit 109). Turn right/south onto Bagley Rd. (second right/south past the overpass and ramps). Lot is first right/west.",Yes,2019,58,7,Yes,Paved,29,"Bagley Rd, Ashley, MI 48806",2,2
+-84.6683659509999,43.4079821220001,337,17,497604,8.903,529003,CL,P,Alma/St. Louis - North,US-127BR,M-46/Monroe Road,124,SW,"From northbound US-127 take M-46/Business US-127 (Exit 124) north of Alma. Turn left/west onto M-46/Monroe Road. Lot is first left/south past Business US-127/Alger Road intersection.
+
+From southbound US-127 take first M-46/Business US-127/Alger Road (Exit 124)/ Turn right/south onto Business US-127/Alger Road. Turn right/west onto M-46/Monroe Road. Lot is first left/south on M-46/Monroe Road.
+
+From eastbound M-46/Monroe Road lot is last right/south before Business US-127/Alger Road.
+
+From westbound M-46/Monroe Road lot is last right/south past Business US-127/Alger Road.
+
+From northbound Business US-127/Alger Road turn left/west onto M-46/Monroe Road north of Alma. Lot is first left/south.",Yes,2019,100,21,Yes,Paved,29,"3180 W Monroe Rd
+Alma, Mi 48801",6,6
+-84.5811906279999,43.291654996,338,17,500401,10.675,529001,CL,P,Ithaca,US-127,US-127BR/Washington Road,117,NE,"From northbound US-127 take Business Us-127/Washington Road (Exit 117) at Ithaca. Turn right/west at end of ramp. Lot is first right/north inside interchange.
+
+From southbound US-127 take Business US-127/Washington Road (Exit 117) at Ithaca. Turn (second Ithaca exit). Turn left/east at end of ramp. Lot is first left/north past overpass inside interchange.",Yes,2019,89,11,Near,Paved,29,"1067 E Washington Rd Ithaca, MI 48847",6,6
+-84.601334139,43.3787858370001,339,17,500608,11.654,529004,CL,P,Alma/St. Louis - South,US-127,US-127BR/Lincoln Road,123,SE,"From northbound US-127 take Business US-127/Lincoln Road (Exit 124) south of Alma (first exit). Turn Right on N. State St. Then Left on to Lincoln Rd. The lot is located on your left.
+
+From southbound US-127 take Business US-12/State Road (Exit 123) south of Alma. Turn right/south at end of ramp onto State Road. Turn left/east onto Lincoln Road (first left/exit past interchange). Lot is first right/south past freeway overpass across from northbound US-127 off-ramp.
+
+From eastbound Business US-127/Lincoln Road in Alma lot is first right/south past freeway overpass across from northbound US-127 off-ramp.
+
+From southbound Business Us-127/State Road in St. Louis turn left/east onto Lincoln Road past US-127 interchange. Lot is first right/south past freeway overpass across from northbound US-127 off-ramp.",Yes,2019,84,7,No,Paved,29,"646 E Lincoln Rd
+Alma, Mi 48801",6,6
+-85.075119892,43.071015103,340,17,503510,6.048,534001,CL,P,Ionia/Belding,M-66,M-44,,SW,"From northbound M-66 lot is on left/west, just south of M-44.
+
+From southbound M-66 lot is on right/west, just south of M-44.
+
+From eastbound M-44 turn right/south onto M-66. Lot is on right/west.",Yes,2019,30,9,No,Paved,34,"5667 M-66 (Or State Rd), Orleans, MI 48865",7,7
+-84.962129825,42.87142965,341,17,505001,17.732,534002,CL,P,Portland - West,I-96,Portland Road,73,NW,"From eastbound I-96 take exit 73/ Portland Road/Grand River Avenue west of Portland.  Turn left/west onto Grand River Avenue.  Turn left/west onto Portland Road (first left/west).  Lot is first right/north.
+
+From westbound I-96 take exit 73/ Portland Road/Grand River Avenue west of Portland.  Turn left/east onto Portland Road.  Lot is first left/north past overpass.",Yes,2019,15,5,No,Paved,34,"5980 Portland Rd
+Portland, Mi 48875",3,3
+-85.13500571,42.8861755250001,342,17,505403,8.99,534005,CL,P,Lake Odessa,I-96,Jordan Lake Rd.at Grand River Ave.,64,NW,"From westbound I-96 take exit 64/Jordan Lake Road north of Lake Odessa.  Turn right/north onto Jordan Lake Road.  Turn left/west onto Grand River Avenue about 0.5 miles north of interchange.  Lot is first left/south.
+
+From eastbound I-96 take exit 64/Jordan Lake Road north of Lake Odessa.  Turn left/north onto Jordan Lake Road.  Turn left/west onto Grand River Avenue about 0.5 miles north of interchange.  Lot is first left/south.",Yes,2019,24,12,No,Paved,34,"3030 Grand River Ave
+Saranac, Mi 48881",7,6
+-85.49030784,43.5836487460001,343,17,524902,3.586,554001,CL,P,Stanwood,US-131,8 Mile Road,131,NW,"From northbound US-131 take exit 131 near Stanwood.  Turn left/west onto M-20.  Lot is first right/north after overpass inside interchange.
+
+From southbound US-131 take exit 131 near Stanwood.  Turn left/east onto M-20.  Lot is first left/north inside interchange.",Yes,2019,40,5,Yes,Paved,54,"20915 8 Mile Rd
+Stanwood, Mi 49346",4,4
+-85.4782743819999,43.4903289480001,344,17,526804,0.04,554003,CL,P,Morley,US-131,Jefferson Road,125,NE,"From northbound US-131 take exit 125 near Morley.  Turn right/east onto Jefferson Road.  Turn left/north onto 200th Avenue (first road on left/north).  Lot is first right/east.
+
+From southbound US-131 take exit 125 near Morley.  Turn left/east onto Jefferson Road.  Turn left/north onto 200th Avenue (first road on left/north).  Lot is first right/east.",Yes,2019,17,7,Yes,Paved,54,"151 200th Ave
+Morley, Mi 49336",7,7
+-84.612122088,45.4032961890001,345,17,542607,1.075,416001,CL,P,Indian River,I-75,M-68,310,SW,"From northbound I-75 take exit 310/M-68 at Indian River. Turn left/west onto M-68. Lot is second left/south west of interchange adjacent to gas station.
+
+From southbound I-75 take exit 310/M-68 at Indian River. Turn right/west onto M-68. Lot is second left/south adjacent to gas station.
+
+From eastbound M-68 in Indian River lot is next to last right/south before I-75 interchange and is adjacent to gas station.
+
+From westbound M-68 in Indian River lot is second left/south west of I-75 interchange and is adjacent to gas station.",No,2019,10,4,Yes,Paved,16,"6157 M-68, Indian River, MI 49749",3,3
+-84.353729167,42.7972938190001,346,17,552403,0.542,676002,CL,P,Laingsburg/Shaftsburg,I-69,Woodbury Road,98,SW,"From eastbound I-69 take exit 98 south of Laingsburg.  Turn right/south onto Woodbury Road.  Turn right/west onto Lansing Road (first road south of interchange).  Lot is first right/north.
+
+From westbound I-69 take exit 98 west of Perry.  Turn left/south onto Woodbury Road.  Turn right/west onto Lansing Road (first road south of interchange).  Lot is first right/north.",Yes,2019,43,17,No,Paved,76,"10101-10367 Lansing Rd, Haslett, Mi 48840",7,7
+-84.095859489,42.895413466,347,17,552503,4.507,676001,CL,P,Bancroft,I-69,Grand River Road,113,NW,"From eastbound I-69 take exit 113 near Bancroft.  Turn left/north onto Grand River Road.  Lot is first left/west north of interchange.
+
+From westbound I-69 take exit 113 near Bancroft.  Turn right/north onto Grand River Road.  Lot is first left/west.",Yes,2019,26,9,No,Paved,76,3390 Grand River Rd.,4,4
+-84.821525036,42.5747359170001,348,17,566004,0.028,823001,CL,P,Charlotte,I-69,I-69BL,61,NW,"From southbound I-69 take exit 61 near Charlotte.  Turn right/west onto Business I-69/Lansing Road.  Turn right/north onto Tully Brown Drive (first right/north).  Lot is first right/east.
+
+From northbound I-69 take exit 61 northeast of Charlotte.  Turn left/west onto Business I-69/Lansing Road.  Turn right/north onto Tully Brown Drive (first right/north past southbound I-69 off-ramp).  Lot is first right/east.
+
+From northbound Business I-69/Lansing Road in Charlotte turn left/north onto Tully Brown Drive (last left/north before I-69 interchange).  Lot is first right/east.",Yes,2019,56,11,Yes,Paved,23,"808-809 Tully Brown Dr
+Charlotte, Mi 48813",5,5
+-85.886025208,42.2046354570001,349,17,579901,10.818,780001,CL,P,Paw Paw/Lawton,I-94,M-40,60,SE,"From westbound I-94 take exit 60 near Paw Paw.  Turn left/south onto M-40.  Lot is first left/east south of interchange.
+
+From eastbound I-94 take exit 60 near Paw Paw.  Turn right/south onto M-40.  Lot is first left/east.
+
+From southbound M-40 lot is first left/east past I-94 interchange south of Paw Paw.
+
+From northbound M-40 lot is on right/east side of road just before I-94 interchange south of Paw Paw (about 4 miles north of Lawton).",Yes,2019,83,13,Yes,Paved,80,"60257 M-40
+Paw Paw, Mi 49079",8,8
+-85.8787819089999,42.3019210590001,350,17,579901,17.819,780004,CL,P,Glendale/Gobles,M-43,M-40,,SE,"From southbound M-40 lot is first left/east south of M-43 intersection 4 miles south of Gobles.
+
+From northbound M-40 lot is last right/east before M-43 intersection 1 mile north of 36th Avenue (about 6 miles north of Paw Paw).
+
+From westbound M-43 turn left/south onto M-40 about 11 miles west of US-131 interchange west of Kalamazoo.  Lot is first left/south on M-40.
+
+From eastbound M-43 turn right/south onto M-40 about 12 miles east of Bangor.  Lot is first left/east on M-40.",Yes,2019,55,8,Near,Paved,80,"32255 M-40, Paw Paw, MI 49079",9,9
+-85.785668511,42.223754017,351,17,583605,0.488,780003,CL,P,Mattawan,I-94,Mattawan Road,66,NW,"From westbound I-94 take exit 66 at Mattawan.  Cross Mattawan Road Cole Avenue (service drive just north of interchange).  Lot is first left/south.
+
+From eastbound I-94 take exit 66 at Mattawan.  Turn left/north onto Mattawan Road.  Turn left/west onto Cole Avenue (service drive just north of interchange).  Lot is first left/south.",Yes,2019,36,13,Near,Paved,80,"24200 Cole Ave
+Mattawan, Mi 49071",8,8
+-83.419423611,42.744028556,352,17,627809,1.625,963006,CL,P,Clarkston - North,I-75,M-15,91,SW,"From northbound I-75 take exit 91 near Clarkston.  Turn left/south onto M-15.  Lot is first right/west beyond southbound I-75 off-ramp.
+
+From southbound I-75 take exit 91 near Clarkston.  Turn right/south onto M-15.  Lot is first right/west.
+
+From northbound M-15 lot is on left/west side of road across from southbound I-75 on-ramp (just before southbound I-75 off-ramp) 1 mile north of Clarkston (2 miles north of US-24 intersection).
+
+From southbound M-15 lot is first right/west side of road  past I-75 interchange north of Clarkston (8 miles south of Ortonville).",Yes,2019,23,17,Near,Paved,63,"7230 N Main St
+Clarkston, Mi 48346",6,6
+-83.370491755,42.652396417,353,17,648906,16.527,963015,CL,P,Waterford - Meijer,M-59,Highland Road,,E,,Yes,2015,50,,Yes,Paved,63,"4200 Highland Road, 
+Waterford, MI
+48328",,
+-83.573334076,42.8153906900001,354,17,649504,6.079,963012,CL,P,Holly - Grange Hall West,I-75,Grange Hall Rd,101,SW,"From northbound I-75, take exit 101.  Turn left (west).  Lot is past gas station on left.
+
+From sounthbound I-75, take exit 101.  Turn right (west). Lot is past gas station on left",Yes,2019,81,41,Yes,Paved,63,"6367 Grange Hall Rd
+Holly, Mi 48442",7,7
+-83.563841989,42.8156859160001,355,17,649504,6.562,963010,CL,P,Holly - Grange Hall,I-75,Grange Hall Road,101,SE,"From northbound I-75 take exit 101.  Turn right/east onto Grange Hall Road.  Lot is the first driveway on the right. 
+
+From southbound I-75 take exit 101.  Turn left/east onto Grange Hall Road to first driveway on the right past I-75 northbound exit ramp.
+",Yes,2019,16,4,Yes,Paved,63,"7070 Grange Hall Rd
+Holly, Mi 48442",6,6
+-83.615768698,42.5214025660001,356,17,656804,4.124,963001,CL,P,Milford/New Hudson,I-96,Milford Road,155,NW,"From eastbound I-69 take exit 155 and turn left/north onto Milford Road. Turn left/west at the intersection of Centennial Drive/Pontiac Trail. Lot is on left/south.
+
+From westbound I-69 take exit 155 and turn right/north onto Milford Road. Turn left/west at the intersection of Centennial Drive/Pontiac Trail. Lot is on left/south.",Yes,2019,140,41,Yes,Paved,63,"Centennial Dr Milford, MI 48381",4,4
+-83.4551919,42.7413856580001,358,17,689103,0.095,963008,CL,P,Clarkston - Northwest,I-75,Dixie Highway,93,NW,"From northbound I-75 take exit 93 near Clarkston.  Turn right/north onto US-24/Dixie Highway.  Lot is first left/west.
+
+From southbound I-75 take exit 93 near Clarkston.  Turn left/north onto US-24/Dixie Highway.  Lot is first left/west past northbound I-75 off-ramp.
+
+From northbound US-24 lot is first left/west past northbound I-75 off-ramp (past both overpasses) at I-75/US-24 interchange north of Pontiac and Clarkston.",Yes,2019,67,28,Yes,Paved,63,"8519 Dixie Hwy
+Clarkston, Mi 48348",6,6
+-83.379668766,42.7374662550001,359,17,697309,4.121,963004,CL,P,Clarkston - Northeast,I-75,Sashabaw Road,89,NE,"From northbound I-75 take exit 89 north of Auburn Hills. Lot is located directly across Sashabaw Road at end of off-ramp. 
+
+From southbound I-75 take exit 89 south of Clarkston. Turn left/north onto Sashabaw Road. Lot is first left/west beyond overpass inside interchange directly across from northbound I-75 off-ramp.",Yes,2019,130,56,Yes,Paved,63,"6731 Sashabaw Rd
+Independence Twp, Mi 48348",7,7
+-85.773535764,43.4829490430001,360,17,711907,4.454,562001,CL,P,Newaygo/Whitecloud,M-37,40th Street,,NE,"From northbound M-37 lot is first right/east past 40th Street about 4.5 miles north of Newaygo.
+
+From southbound M-37 lot is about 1 mile south of 32nd Street on right/east side of road just before 40th Street about 7 miles south of White Cloud.",Yes,2019,15,2,Near,Paved,62,"3955 S Evergreen Dr
+White Cloud, Mi 49349",4,4
+-86.215568694,43.077402353,361,17,732409,0.035,570001,CL,P,Ferrysburg,M-104,Pine Street,,NE,"From southbound US-31 take 3rd Street exit in Ferrysburg.  Turn left/ east onto 3rd Street.  Turn right/south onto Pine (where 3rd Street ends).  Lot is on left/east side of road.
+
+From northbound US-31 take 3rd Street exit in Ferrysburg.  Turn right/east onto 3rd Street.  Turn right/south onto Pine (where 3rd Street ends).  Lot is on left/east side of road.
+
+From westbound M-104 turn right/north onto Pine Street just across bridge between Spring Lake and Ferrysburg.  Lot is on right/east.",Yes,2019,40,1,Yes,Paved,70,"120 Pine St
+Spring Lake, Mi 49456",6,6
+-85.8020729199999,42.8510373440001,362,17,737601,5.732,570007,CL,P,Grand Rapids/South Beltline W.,M-6,8th Ave.,1,NE,"From westbound M-6, get off at Exit 1, 8th Ave. and make a right/north.  Lot is on the right/east side of the road.  From easbound M-6, get off at Exit 1, 8th ave. and make a left/north.  Take 8th ave north to lot.  Lot is on right/east side of the road.",Yes,2019,74,30,Yes,Paved,70,"4450 8th Ave
+Grandville, Mi 49418",5,5
+-85.861231205,42.851037236,363,17,738008,5.763,570003,CL,P,Hudsonville,I-196,32nd Avenue,62,NW,"From southbound I-196 take exit 62/ 32nd Avenue near Hudsonville.  Turn right/north onto 32nd Avenue.  Lot is first left/west.
+
+From northbound I-196 take exit 62/ 32nd Avenue near Hudsonville.  Turn left/north onto 32nd Avenue.  Lot is first left/west.",Yes,2019,54,33,Near,Paved,70,"4317 32nd Ave
+Hudsonville, Mi 49426",5,5
+-86.0751376599999,43.0743098730001,364,17,747805,0.15,570005,CL,P,Nunica,I-96,112th Street,10,NW,"From westbound I-96 take exit 10.  Turn right/north onto 112th Avenue.  Turn left/west onto Cleveland Street about 200 feet north of off-ramp.  Lot is about 0.3 miles west of 112th Avenue on left/south.
+
+From eastbound I-96 take exit 10B/M-104/County Road B-31.  Continue under westbound I?96 overpass.  Turn left/west onto Cleveland Road (first left/west).  Lot is about 200 feet west of intersection on left/south.
+
+From eastbound M-104 continue under I-96 overpasses at interchange west of Nunica.  Turn left/west onto Cleveland Street (first left/west past interchange).  Lot is about 200 feet west of intersection on left/south.",Yes,2019,40,11,Yes,Paved,70,"11561 Cleveland St, Nunica, MI 49448",6,6
+-85.95678628,43.0549895870001,365,17,752004,7.72,570004,CL,P,Coopersville,I-96,68th Street,16,SE,"From westbound I-96 take exit 16 near Coopersville.  Turn left/south onto 68th Street.  Lot is first left/east across freeway overpass.
+
+From eastbound I-96 take exit 16 near Coopersville.  Turn right/north onto 68th Street.  Lot is first left/east north of on/off ramp.",Yes,2019,44,22,Near,Paved,70,"15774 68th Ave, Coopersville, MI 49404",6,6
+-83.312644141,43.192636162,367,17,754110,21.67,644002,CL,P,Columbiaville,M-24,Barnes Lake Road,,NW,"From northbound M-24 lot is on left/west side of road 0.25 miles north of Barnes Lake Road about 9 miles north of Lapeer.
+
+From southbound M-24 lot is on right/west side of road 0.75 miles south of Burnside Road about 10 miles south of Mayfield.",Yes,2019,26,9,Yes,Paved,44,"5585 N Lapeer Rd, North Branch, MI 48461",6,6
+-83.3160257609999,43.2795108940001,369,17,754901,1.868,644004,CL,P,Fostoria,M-24,Millington Road,,SE,"From northbound M-24 turn right/east onto Millington Road about 15 miles north of Lapeer.  Lot is second right/south adjacent to Rich Township Hall.
+
+From southbound M-24 turn left/east onto Millington Road about 4.5 miles past Mayfield (3 miles south of Lapeer/Tuscola County Line).  Lot is second right/south adjacent to Rich Township Hall.",Yes,2019,30,2,Yes,Paved,44,"1026 E Millington Rd, Mayville, MI 48744
+
+North of M-90, Millington Road is gravel",7,7
+-83.361507101,43.032883768,370,17,755101,1.483,644005,CL,P,Lake Nepessing,I-69,Lake Nepessing Road,153,NE,"From eastbound I-69 take exit 153 east of Davison.  Turn left/north onto Lake Nepessing Road.  Lot is first right/east past overpass inside interchange.
+
+From westbound I-69 take exit 153 west of Lapeer.  Turn left/south onto Lake Nepessing Road.  Lot is first left/east inside interchange.",Yes,2019,30,26,Yes,Paved,44,"469 Lake Nepessing Road, Lapeer, MI",7,7
+-83.185909,43.229628,371,17,755510,13.785,644012,CL,P,North Branch,M-90,Between Brush Street and Baldwin Avenue,,NA,"From eastbound M-90 in North Branch lot is on left/north 1 block past Brush Street.
+
+From westbound M-90 in North Branch lot is on right/north 1 block past Baldwin Avenue.",Yes,2019,15,1,Yes,Paved,44,"4396 Huron St, North Branch, MI 48461",7,7
+-83.076177421,43.2107077320001,372,17,761802,15.884,644009,CL,P,Burnside,M-90,M-53,,NE,"From northbound M-53 turn right/east onto M-90 in Burnside.  Lot is on left/north at senior citizen center about 0.1 miles east of M-53.
+
+From southbound M-53/eastbound M-90 turn left/east onto M-90 in Burnside (1.5 miles south of north M-53/M-90 junction).  Lot is on left/north at senior citizen center about 0.1 miles east of junction.
+
+From westbound M-90 lot is on right/ north at senior citizen center in Burnside about 4 miles west of Brown.",Yes,2019,26,5,Near,Paved,44,"7035 Burnside Rd, Brown City, MI 48416",7,7
+-83.949164772,43.6240767290001,373,17,766108,1.527,609001,CL,P,Bay City - Northwest,I-75,M-13/Wilder Road,164,SE,"From northbound I-75, take exit 164 to Wilder Road near Bay City. Turn left/west onto Wilder Road. Lot is first left/south past southbound I-75 on-ramp.
+
+From southbound I-75, take exit 164 to Wilder Road near Bay City. Turn left/east onto Wilder Road. Lot is first right/south past 3 Mile Road.
+
+From southbound M-13, take southbound I-75 Connector near Kawkawlin. Exit onto Wilder Road. Turn right/west onto Wilder Road. Lot is first left/south.
+
+",Yes,2019,60,16,Yes,Paved,9,"2564 E Wilder Rd, Bay City, MI 48706
+
+Adjacent to Bay City TSC",7,7
+-84.013591827,43.739044214,374,17,777408,7.676,609003,CL,P,Linwood,I-75,Linwood Road,173,NE,"From northbound I-75, take exit 173 near Linwood.  Turn right/east onto Linwood Road.  Lot is first left/north.  
+
+From southbound I-75, take exit 173 near Linwood.  Turn left/east onto Linwood Road.  Lot is first left/north past northbound I-75 on-ramp.",Yes,2019,33,5,Near,Paved,9,"883 E Linwood Rd Linwood, MI 48634",10,10
+-86.167404924,42.683389719,375,17,782207,7.29,703004,CL,P,Saugatuck,I-196,Blue Star Hwy,41,SE,"From Southbound I-196/US-31 off ramp, turn left on Blue Star Hwy.  Lot first drive past hwy ramp on the right.
+From Northbound I-196/US-31 off ramp, turn right on Blue Star Hwy.  Lot first drive on right.",Yes,2019,21,14,No,Paved,3,"6324 Blue Star Hwy
+Saugatuck, Mi 49453",8,8
+-85.666408326,42.5368345750001,376,17,787604,9.873,703003,CL,P,Martin/Watson,US-131,M-222,55,NW,"From northbound US-131 take exit 55 near Martin.  Turn left/west onto M-222.  Lot is first right/north past 12th Street (first road beyond interchange).
+
+From southbound US-131 take exit 55 near Martin.  Turn right/west onto M-222.  Lot is first right/north past 12th Street (first road beyond interchange).
+
+From eastbound M-22 lot is last left/north before 12th Street just west of US-131 interchange 2 miles east of Watson (about 10 miles east of Allegan).",Yes,2019,38,15,No,Paved,3,"1247 116th Ave, Martin, MI 49070",9,9
+-85.666983151,42.7247601130001,377,17,791807,16.838,703002,CL,P,Moline/Dorr,US-131,142nd Street,68,SE,"From northbound US-131 take exit 61 near Bradley.  Turn left/west onto 129th Avenue.  Turn left/south onto 12th Street (service road which is first left/south past freeway overpass).  Lot is first right/west.
+
+From southbound US-131 take exit 61 near Bradley.  Turn left/south onto 12th Street (service road onto which southbound off-ramp leads).  Lot is first right/west past 129th Avenue (first cross street).",Yes,2019,41,13,No,Paved,3,"1220 142nd Ave, Wayland, MI 49348",7,7
+-85.663378984,42.6292289680001,378,17,797902,3.363,703001,CL,P,Bradley,US-131,M-179/129th Street,61,SW,"From northbound US-131 take exit 61 near Bradley.  Turn left/west onto 129th Avenue.  Turn left/south onto 12th Street (service road which is first left/south past freeway overpass).  Lot is first right/west.
+
+From southbound US-131 take exit 61 near Bradley.  Turn left/south onto 12th Street (service road onto which southbound off-ramp leads).  Lot is first right/west past 129th Avenue (first cross street).",Yes,2019,32,15,No,Paved,3,"2854 12th St, Shelbyville, MI 49344",6,6
+-82.835479612,42.6748095780001,379,17,807106,13.345,950004,CL,P,Chesterfield - Meijer,I-94,23 Mile Rd.,243,NW,,Yes,2015,50,,Yes,Paved,50,"27255 - 23 Mile Rd., 
+Chesterfield Twp, 
+MI 48051",,
+-82.8173733099999,42.67329131,380,17,814703,1.157,950002,CL,P,New Baltimore - West,I-94,M-29/23 Mile Road,243,SE,"From eastbound I-94 take exit 243 west of New Baltimore.  Turn right/east onto M-29/23 Mile Road.  Turn right/south onto Donnor Road (first road east of interchange).  Lot is first right/west.
+
+From westbound I-94 take exit 243 west of New Baltimore.  Turn left/east onto M-29/23 Mile Road.  Turn right/south onto Donnor Road (first road east of interchange).  Lot is first right/west.
+
+From northbound M-3/eastbound M-59/Gratiot Avenue turn right/east onto 23 Mile Road north of Mount Clemens.  Turn  right/south onto Donnor Road (first road east of I-94 interchange).  Lot is first right/west.
+
+From westbound (southbound) M-29 turn left/south onto Donnor Road (last road before I-94 interchange) about 4 miles west of New Baltimore.  Lot is first right/west.",Yes,2019,93,35,Yes,Paved,50,"49927 Donner Rd
+New Baltimore, Mi 48047",6,6
+-82.776495489,42.7081712930001,381,17,818407,4.62,950003,CL,P,New Baltimore/New Haven,I-94,M-19,247,SW,"From eastbound I-94 take exit 247 south of New Haven.  Turn left/north onto M-19/New Haven Road.  Turn left/west onto 25 Mile Road (first road north of interchange).  Lot is first left/south.
+
+No direct access to lot from westbound I-94.
+
+From westbound I-94 take exit 248 near New Haven.  Turn right/west onto 26 Mile Road.  Turn right/south onto M-19/New Haven Road about 2 miles west of I-94.  Turn left/west onto 25 Mile Road just before I-94 interchange about 1.25 miles south of 26 Mile.  Lot is first left/south.
+
+From southbound M-19/New Haven Road turn right/west onto 25 Mile Road just before I-94 interchange 2 miles south of New Haven.  Lot is first left/south.",Yes,2019,40,30,Yes,Paved,50,"32890 25 Mile Rd
+New Baltimore, Michigan 48051",4,4
+-86.205591435,43.168780826,382,17,857605,1.061,561004,CL,P,Muskegon/Norton Shores,I-96,Hile Rd.,,SW,"From northbound US-31 take eastbound I-96/Hile Road exit.  Turn left/north at lot entrance (opposite Harvey Street).
+
+From southbound US-31 take eastbound I-96 exit to Hile Road exit.  Turn left/west on Hile Road.  Turn right/north into lot (opposite Harvey Street).
+
+From eastbound I-96 take Hile Road exit.  Turn left/west on Hile Road.  Turn right/north into lot (opposite Harvey Street).
+
+From westbound I-96 take US-31 southbound exit to eastbound I-96 exit to Hile Road exit.  Turn left/west on Hile Road.  Turn right/north into lot (opposite Harvey Street).
+
+From eastbound Airline Road turn right/west on Hile Road.  Turn right/north (past freeway overpass) into lot (opposite Harvey Street).
+
+From westbound Airline Road turn left/west on Hile Road.  Turn right/north (past freeway overpass) into lot (opposite Harvey Street).
+
+From northbound Harvey Street take Harvey Street until it dead-ends at Hile Road.  Lot is directly across Hile Road from the end of Harvey Street.",Yes,2019,58,26,Yes,Paved,61,"1598 E Hile Rd
+Norton Shores, Mi 49444",6,6
+-86.2366083269999,43.324331837,383,17,857903,2.028,561005,CL,P,Muskegon - North,US-31,Russell Road,121,NW,"From northbound US-31 take the Russell Road exit.  Lot is across from the exit ramp.
+From southbound US-31 take the Russell Road exit.  Turn left/north onto Russell Road.  Lot is first left/west after overpass (before northbound US-31 entrance ramp).",Yes,2019,27,10,Near,Paved,61,"3799 Russell Rd, Muskegon, MI 49445",8,8
+-86.317506436,43.40900206,384,17,857910,0.254,561003,CL,P,Montague/Whitehall - South,US-31,US-31BR/Colby Road,128,NW,"From northbound US-31 take Business US-31/Colby Road exit south of Whitehall.  Turn right/west onto Business US-31/Colby Road.  Lot is first right/north past southbound US-31 on-ramp.
+
+From southbound US-31 take Business US-31/Colby Road exit south of Whitehall.  Turn right/west onto Business US-31/Colby Road.  Lot is first right/north.",Yes,2019,22,6,Near,Paved,61,"3100 Holton Whitehall Rd
+Whitehall, Mi 49461",4,4
+-85.797621095,43.2342662630001,385,17,860609,0.031,561001,CL,P,Casnovia,M-37,Casnovia Road,,SE,"From northbound M-37/westbound M-46/Apple Ave. turn right/east onto Waterloo Road (toward Casnovia) about 2 miles west of M-37/M-46 junction near Kent City.  Lot is first right/south.
+
+From southbound M-37/eastbound M-46/Apple Road (toward Casnovia) and turn left/east on Waterloo Road about 0.75 miles east of M-37/M-46 junction near Casnovia.  Lot is first right/south.",No,2019,23,12,Near,Paved,61,"113 W Waterloo St
+Casnovia, Mi 49318",9,9
+-86.3422899129999,43.4435852060001,386,17,871605,4.245,561002,CL,P,Montague/Whitehall - North,US-31BR,Fruitvale Road,131,SW,"From northbound US-31 take Business US-31/Fruitvale Road exit north of Montague.  Turn right/west onto Business US-31/Fruitvale Road.  Lot is first left/south past southbound US-31 on-ramp.
+
+From southbound US-31 take Business US-31/Fruitvale Road exit north of Montague.  Turn right/west onto Fruitvale Road.  Lot is first left/south.",Yes,2019,30,7,Near,Paved,61,"4145 W Fruitvale Rd
+Montague, Mi 49437
+",5,5
+-84.486923517,43.7355247510001,387,17,884404,1.758,656002,CL,P,North Bradley,US-10,M-18,,NE,"From westbound US-10, take M-18 exit near North Bradley. Turn right/north onto M-18. Lot is first right/east.
+
+From eastbound US-10, take M-18 exit near North Bradley. Turn left/north onto M-18. Lot is first right/east past interchange.
+
+From southbound M-18, lot is last left/east before US-10 interchange about 10.5 miles south of Beaverton.",Yes,2019,20,1,No,Paved,56,"4285 M-18
+Coleman, Mi 48618",9,7
+-84.369244925,43.613236757,388,17,889906,10.158,656006,CL,P,Dice Corner,M-20,M-30,,NW,(No directions provided).,Yes,2019,12,13,Near,Paved,56,"18 N Meridian Rd
+Midland, Mi 48640",9,8
+-84.2573666769999,43.654935741,389,17,892607,3.289,656003,CL,P,Midland - North,US-10,US-10/Wackerly Rd,122,NW,"From westbound US-10, take Business US-10/Eastman Road. Turn left/south onto Eastman Road. First intersection is Wackerly Road. Turn right/west on Wackerly Road. Lot is approximately a 1/4 mile on the right/north side.
+
+From eastbound US-10, take Business US-10/Eastman Road (Wackerly Road). Turn right/west on Wackerly Road. Lot is first right/north.
+
+From northbound Business US-10/Eastman Road in Midland, turn left/west onto Wackerly Road just before US-10 interchange. Lot is first right/north.",Yes,2019,26,14,Near,Paved,56,"2710 W Wackerly St
+Midland, Mi 48640",7,8
+-84.427213057,42.378637542,390,17,898903,1.073,838001,CL,P,Rives Junction,US-127,Berry Road,51,NE,"From southbound US-127 take Berry Road about 5 miles south of Leslie.  Turn left/east onto Berry Road.  Lot is first left/north.
+
+From northbound US-127 take Berry Road (about 8 miles north of I-94 exit 138 north of Jackson).  Turn left/west onto Berry Road.  Lot is first right/north inside interchange.",Yes,2019,44,9,Yes,Paved,38,"1698 W Berry Rd, Rives Junction, MI 49277",8,8
+-84.364106437,42.1192864590001,391,17,899004,3.162,838003,CL,P,Clarklake,US-127,Jefferson Road,,NE,"From NB US-127 Lot is first right past Jefferson Rd 5 miles north of US-12
+
+From SB US-127 Lot is on left before Jefferson Rd
+
+Lot is north 1/4 mile of Jefferson Road on US-127.",Yes,2019,18,1,No,Paved,38,"9901 US-127, Clarklake, MI 49234",8,8
+-84.387171849,42.276102784,392,17,902107,0.901,838005,CL,P,Jackson,I-94,Elm Road,141,NE,"From eastbound I-94/southbound US-127 take exit 141 near Jackson. Turn left/north onto Elm Avenue. Turn left/west onto Rosehill. Lot is first right/north.
+
+From westbound I-94/northbound US-127 take exit 141 near Jackson. Turn right/north onto Elm Avenue. Turn left/west onto Rosehill. Lot is first right/north.",Yes,2019,41,23,Yes,Paved,38,"704 Rosehill Rd
+Jackson, Mi 49202",6,6
+-84.207499392,42.2923764650001,393,17,918805,2.789,838002,CL,P,Grass Lake,I-94,Mt. Hope Road (Grass Lake exit),150,NW,"From eastbound I-94 take exit 150 north of Grass Lake.  Turn left/north onto Mt. Hope Road.  Turn left/west onto Cedar Knolls Road (first road north of interchange, before exit ramp).  Lot is first left/south.
+
+From westbound I-94 take exit 150 north of Grass Lake.  Turn left/south onto Mt. Hope Road.  Turn right/west onto Cedar Knolls Road (first road north of interchange).  Lot is first left/south.",Yes,2019,58,28,Yes,Paved,38,"9973-10999 Cedar Knoll Dr
+Grass Lake, Mi 49240",8,8
+-84.974663552,41.936415142,394,17,923007,19.247,712001,CL,P,Coldwater,I-69,US-12,13,SW,"From northbound I-69 take exit 13 and turn right/west onto US-12/Chicago Street. Lot is first left/south, west of I-69 overpass.
+
+From southbound I-69 take exit 13 and turn left/east onto US-12/Chicago Street. Lot is first right/south, west of I-69 overpass.
+
+From eastbound US-12/Chicago Street lot is on right/south after southbound I-69 on-ramp.
+
+From westbound US-12/Chicago Street lot is on left/south after I-69 overpass.",Yes,2019,56,10,Yes,Paved,12,"663 E. Chicago St, Coldwater, Michigan 49036",6,6
+-83.7560101299999,42.4426829130001,395,17,931604,2.037,847001,CL,P,Hamburg,US-23,M-36,54,SW,"From southbound US-23, take exit 54 near Hamburg. Turn left/east onto M-36/9 Mile Road. Lot is first right/south (across from southbound US-23 on-ramp).
+
+From northbound US-23, take exit 54 near Hamburg to westbound M-36. Turn left/west onto M-36/9 Mile Road. Lot is first left/south past freeway overpass across from southbound US-23 on-ramp.
+
+From eastbound M-36, lot is first right/south past Whitmore Lake Road across from southbound US-23 on-ramp at interchange 3 miles east of Hamburg.",Yes,2019,71,35,Near,Paved,47,"M-36
+Whitmore Lake, Mi 48189",6,6
+-83.753212628,42.6349711010001,397,17,932204,14.846,847013,CL,P,Hartland #1,US-23,M-59/Old US-23,67,NW,"From northbound US-23, take exit 67 near Hartland. Turn left/west onto M-59. Turn right/north onto Old US-23 (service road which is first road west of interchange). Lot is first right/east.
+
+From southbound US-23, take exit 67 near Hartland. Turn right/west onto M-59. Turn right/north onto Old US-23 (service road which is first road west of interchange). Lot is first right/east.
+
+From eastbound M-59, turn left/north onto Old US-23 about 10 miles east of Howell. Lot is first right/east.
+
+From westbound M-59, turn right/north onto Old US-23 (first road west of US-23 interchange near Hartland). Lot is first right/east.",Yes,2019,41,19,No,Paved,47,"2166 N Old US-23, Howell, MI 48843",6,5
+-83.789125494,42.5455470970001,399,17,932910,21.266,847017,CL,P,Brighton - Meijer,I-96,W Grand River,145,SW,,Yes,2015,50,,Yes,Paved,47,"8650 W Grand River, Brighton, MI ",,
+-83.9926381769999,42.618792726,401,17,933208,0.182,847016,CL,P,Howell - Burkhart,I-96,Burkhart Rd,133,NW,(No specific directions).,Yes,2019,77,28,Yes,Paved,47,"1382 N Burkhart Rd
+Howell, MI 48855",9,9
+-83.764681186,42.5328961490001,403,17,933908,0.856,847005,CL,P,Brighton #1 (NW),I-96,Spencer Road,147,NE,,Yes,2019,50,23,Yes,Paved,47,"9310 Spencer Rd
+Brighton, Mi 48114",6,3
+-83.7640440919999,42.533152494,404,17,933908,0.893,847006,CL,P,Brighton # 2 (NE),I-96,Spencer Road,147,SE,"Southeast Quadrant Lot:
+From eastbound I-96, take exit 147 near Brighton. Turn right/north onto Spencer Road. Lot is first right/west past freeway overpass.
+
+From westbound I-96, take exit 147 (1 mile west of US-23 exit 60) near Brighton. Lot is directly across Spencer Road from off-ramp.",Yes,2019,109,85,Yes,Paved,47,"9365 Spencer Rd
+Brighton, Mi 48114",7,4
+-83.933640829,42.5919841140001,405,17,944110,8.534,847008,CL,P,Howell - South,I-96,Pinckney Road,137,NW,"From eastbound I-96, take exit 137 near Howell. Turn left/north onto D19/Pinckney Road. Lot is first left/west past overpass inside interchange.
+
+From westbound I-96, take exit 137 near Howell. Turn right/south onto D19/Pinckney Road. Lot is first right/west past overpass inside interchange.",Yes,2019,79,49,No,Paved,47,"1222 Pickney Rd, Howell, MI 48843-2644",7,1
+-84.356752802,42.0483783440001,406,17,946403,0.323,846002,CL,P,Cement City/Somerset,US-127,US-12,,NE,"From southbound US-127 turn left/east onto US-12 about 10 miles south of M-50 interchange southeast of Jackson. Lot is first left/north.
+
+From northbound US-127 turn right/east onto US-12 one mile north of US-223 junction near Somerset. Lot is first left/north.
+
+From eastbound US-12 go 3 miles east of Somerset Center. Lot is first left/north past US-127 intersection.
+
+From westbound US-12 lot is last right/north before US-127 intersection about 8.5 miles west of M-50 intersection at Cambridge Junction.",Yes,2019,33,9,Yes,Paved,46,"18670-18740 U.S. 12
+Cement City, Mi 49233
+",8,8
+-84.0060667939999,42.0136039820001,407,17,958403,0.022,846001,CL,P,Tecumseh/Tipton,M-50,M-52,,NE,"From southbound M-52 turn left/east onto North Adrian Highway about 4.5 miles south of US-12 intersection (10 miles south of Manchester).  Lot is first left/north.
+
+From northbound M-52 turn right/east onto North Adrian Highway (first road on right/east 0.5 miles north of M-50 intersection west of Tecumseh).  Lot is first left/north.
+
+From eastbound M-50 turn left/north onto M-52 3 miles west of Tipton.  Turn right/east onto North Adrian Highway (first road on right/east).  Lot is first left/north.
+
+From westbound M-50 turn right/north onto M-52 about 2 miles west of Tecumseh.  Turn right/east onto North Adrian Highway (first road on right/east).  Lot is first left/north.",Yes,2019,20,2,No,Paved,46,"8947 N Adrian Hwy
+Tecumseh, Mi 49286",6,6
+-82.764489655,42.9769109590001,408,17,961905,4.525,977006,CL,P,Emmett,I-69,M-19,184,SE,"From eastbound I-69 take exit 184 near Emmett.  Turn right/south onto M-19.  Turn left/east onto first drive (access drive to Marathon Station).  Lot is first left/north off drive.
+
+From westbound I-69 take exit 184 near Emmett.  Turn left/south onto M-19.  Turn right/east onto first drive (access drive to Marathon Station).  Lot is first left/north off drive.
+
+From northbound M-19 turn right/east onto drive at Gas Station (last right/east before I-69 interchange) 5.5 miles north of Memphis.  Lot is first left/north off drive.
+
+From southbound M-19 turn left/east onto first drive south of I-69 interchange (access to Gas Station) 1 mile south of Emmett.  Lot is first left/north off drive.",Yes,2019,40,25,Yes,Paved,77,"2860 Kinney Rd, Memphis, MI 48041
+
+Via Marathon gas station driveway",10,10
+-82.543418601,42.9779504970001,409,17,962903,0.319,977003,CL,P,Port Huron/Wadhams,I-69,Wadhams Road,196,SW,"From eastbound I-69 take exit 196 near Wadhams.  Turn right/south onto Wadhams Road.  Turn right/west onto Bartlett Road (first road south of interchange).  Lot is first right/west.
+
+From westbound I-69 take exit 196 (3 miles west of I-94 exit 271) west of Port Huron.  Turn left/south onto Wadhams Road.  Turn right/west onto Bartlett Road (first road south of interchange).  Lot is first right/west.",Yes,2019,25,15,Near,Paved,77,"2473 Bartlett Rd
+Smiths Creek, Mi 48074",10,10
+-82.5017759899999,42.9089595470001,410,17,963509,14.219,977008,CL,P,Kimball,I-94,Gratiot Rd,266,NE,From eastbound I-94 take exit 266. Turn right onto Gratiot Road. Lot is on the left. From westbound I-94 take exit 266. Turn left onto Gratiot Road. Lot is on the left,Yes,2019,112,15,Yes,Paved,77,"4610 Gratiot Rd
+Smiths Creek, MI 48074",7,7
+-82.563096393,42.6133857830001,411,17,967406,0.641,977007,CL,P,Harsens Island,M-154,(N. Channel Rd.) at Ferry,,NA,"From M-29 on mainland between Pearl Beach and Algonac take Harsens Island Ferry to Harsens Island. From ferry landing turn right/west onto M-154/North Channel Road. Lot is first right/south.
+
+From northbound M-154 on Harsens Island lot is first right/north past ferry turnoff.",Yes,2019,11,1,Yes,Paved,77,"1750 N Channel Dr
+Harsens Island, Mi 48028",5,5
+-82.500283473,42.9497352060001,412,17,968503,0.082,977002,CL,P,Port Huron/Marysville,I-94,Range Road,269,SE,"From eastbound I-94 take exit 269 near Marysville.  Continue across Range Road to Dove Road (directly across from off-ramp).  Turn left/west onto Old Dove Road (first left/west).  Lot is first left/east.
+
+From westbound I-94 take exit 269 south of Port Huron (2 miles south of I-69 exit 198).  Turn left/south onto Range Road.  Turn left/north onto Dove Road (across freeway directly across from eastbound I-94 off-ramp).  Turn left/west onto Old Dove Road (first left/west).  Lot is first left/east.",Yes,2019,40,4,Yes,Paved,77,"4620 Gratiot Rd
+Smiths Creek, Mi 48074",7,7
+-82.556972518,42.860252997,413,17,969901,5.836,977005,CL,P,St. Clair,I-94,Wadhams Road,262,SW,"From eastbound I-94 take exit 262 near St. Clair.  Turn right/south onto Wadhams Road.  Lot is first right/east.
+
+From westbound I-94 take exit 262 near St. Clair.  Turn left/south onto Wadhams Road.  Lot is first right/east past eastbound off-ramp across freeway.",Yes,2019,74,17,Near,Paved,77,"1682 Wadhams Rd
+St Clair, Mi 48079",6,6
+-82.926179368,42.983587217,414,17,972704,3.061,977004,CL,P,Capac,I-69,Capac Road/M-21,176,SE,"From eastbound I-69 take exit 176 near Capac.  Turn right/south onto Capac Road.  Turn left/east onto Burt Road (first road south of interchange).  Lot is first left/north.
+
+From westbound I-69 take exit 176 near Capac.  Turn left/south onto Capac Road.  Turn left/east onto Burt Road (first road south of interchange).  Lot is first left/north.",Yes,2019,40,10,Yes,Paved,77,"14968 Burt Rd, Mussey Township, MI 48002",6,6
+-85.094537625,42.727081545,415,17,983603,10.952,708001,CL,P,Woodland,M-43,M-66 (S Junction),,SW,"From westbound M-43/southbound M-66 lot is first right/west past M-43/Carleton Center Road junction with M-66 2 miles south of M-43/M-50/M-66 intersection south of Woodbury.
+
+From northbound M-66 lot is last left/west before M-43 junction 9 miles north of Nashville.
+
+From eastbound M-43 turn right/south onto M-66 2 miles east of Woodland.  Lot is first right/west.",Yes,2019,22,3,No,Paved,8,"4960 N Clark Rd
+Woodland, Mi 48897",5,5
+-85.0939115579999,42.5679041160001,416,17,991006,6.102,708002,CL,P,Nashville/Maple Grove,M-66,M-79 (S Junction),,NE,"From southbound M-66/eastbound M-79 turn left/east onto M-79 2 miles south of Nashville.  Turn left/north onto Clark Road (first left/north).  Lot is first left/east.
+
+From eastbound M-79 turn right/north onto Clark Road 12.5 miles west of Charlotte (1 mile west of Barry/Eaton County Line).  Lot is first left/west.
+
+From northbound M-66 turn right/east onto M-79 2 miles north of Maple Grove (12 miles north of M-78 junction).  Turn left/north onto Clark Road (first left/north).  Lot is first left/west.",Yes,2019,30,2,Near,Paved,8,"S Clark Rd, Nashville, MI 49073",6,6
+-85.4585712909999,44.823738925,419,17,994002,9.767,328004,CL,P,Yuba Creek,US-31,Yuba Park Rd,,SW,"From northbound US-31 lot is located on left/west just before Yuba Park Road.
+
+From southbound US-31 lot is located on right/west just after Yuba Park Road.",Yes,2019,16,0,Near,Paved,28,"9657 US-31 Williamsburg, MI 49690",6,6
+-85.498576607,44.7732985810001,420,17,994307,0.103,328002,CL,P,Acme,US-31,M-72,,NE,"From westbound M-72 lot is located on right/north just before Masonic Temple at corner of M-72 and McDermott Street in Acme.
+
+From northbound US-31/eastbound M-72 turn right/east onto M-72 in Acme.  Lot is second left/north past McDermott Street beside Masonic Temple.
+
+From southbound US-31 turn left/east onto M-72 in Acme.  Lot is second left/north past McDermott Street beside Masonic Temple.",Yes,2019,33,1,No,Gravel,28,"3500 M-72
+Williamsburg, MI 49690
+",8,6
+-84.225494235,44.246554814,421,17,1005805,4.853,465001,CL,P,West Branch,I-75,I-75BL,212,NE,"From northbound I-75 take exit 212/Business I-75 south of West Branch. Turn left/south at end of ramp. Lot is first left/east inside interchange.
+
+From southbound I-75 take exit 212/Business I-75 south of West Branch. Turn left/north at end of ramp. Lot is first right/east inside interchange past overpass.
+
+From westbound M-55 turn left/south onto Business I-75 in West Branch. Lot is first left/east past freeway on/off-ramps inside interchange.",Yes,2019,40,4,No,Paved,65,"Cook Rd
+West Branch, Mi 48661",9,7
+-82.726586617,43.42478663,422,17,1015404,1.709,674001,CL,P,Carsonville,M-46,Ruth Rd.,,SE,"From eastbound M-46 lot is on right/south 0.2 miles east of Ruth Road and 0.2 miles west of Black River.
+
+From westbound M-46 lot is on left/south 0.2 miles east of Ruth Road and 0.2 miles west of Black River.",Yes,2019,10,4,No,Paved,74,"2625 Sanilac Rd
+Carsonville, Mi 48419",7,7
+-82.542485691,43.432016907,423,17,1015507,18.707,674002,CL,P,Port Sanilac,M-25,M-46,,NE,"From intersection of M-25 and M-46, go north approximately 200ft, turn right into Fire Hall/Sheriffs Office.  Go approximately 100ft behind building and down the hill.  The Lot will be at the bottom of the hill on the right.",No,2019,50,0,Yes,Paved,74,"73 N Lakeshore Rd
+Port Sanilac, Mi 48469",7,7
+-83.746410667,45.0600688310001,424,17,1023609,6.554,404002,CL,P,Lachine,M-32,M-65 (W Junc.),,SW,"From northbound M-65 turn right/east onto M-32 north of Spratt. Lot is on right/south adjacent to country store.
+
+From eastbound M-32 lot is on right/south just past M-65 junction adjacent to country store (8 miles east of Hillman).
+
+From southbound M-65/westbound M-32 lot is on left/south just before M-65 and M-32 divide (west M-65/M-32 junction) adjacent to country store 2 miles west of east M-65/M-32 junction south of Lachine.",Yes,2019,8,6,Yes,Paved,4,"14799 M-32
+Lachine, Mi 49753",7,5
+-83.6591517159999,45.0657171390001,425,17,1023609,10.967,404003,CL,P,Alpena/Emerson,M-32,Emerson Rd,,N,"From westbound M-32 turn right/north into lot 10 miles west of US-23 junction in Alpena. Lot is located 1.1 mile east of the intersection of Herron Road and M-32.
+
+From eastbound M-32 turn left/north into lot. Lot is located 3.5 miles east of M-65 intersection south of Lachine. Lot is located 0.3 miles east of the intersection of Emerson Road and M-32.",Yes,2019,30,0,No,Paved,4,"10648 M-32
+Herron, Mi 49744",7,7
+-83.5674118699999,45.062404067,427,17,1023902,0.1,404004,CL,P,Alpena/Airport,M-32,Airport Rd,,U,"From eastbound M-32 turn left (north) on Airport Road, then take first left into lot. From westbound M-32, turn right (north) on Airport Road, then take first left into lot.",Yes,2019,20,0,No,Paved,4,"1150 Airport Rd
+Alpena, Mi 49707",8,8
+-82.6107683339999,43.7169152810001,428,17,1033107,1.85,632002,CL,P,White Rock,M-25,Atwater,,E,"From northbound M-25 lot is on the right/east side of route, South of Atwater Rd.
+
+From southbound M-25 lot is on the left/east side of route, South of Atwater Rd. 
+",Yes,2019,18,3,No,Paved,32,"4590 S Lakeshore Rd
+Harbor Beach, Mi 48441",6,6
+-82.742962698,43.81972153,429,17,1033809,25.136,632001,CL,P,Harbor Beach,M-142,Ruth Road,,NE,"From eastbound M-142 turn left/north onto Ruth Road about 7 miles east of Verona.  Lot is first left/west at Huron County Road Commission lot.
+
+From westbound M-142 turn right/north onto Ruth Road about 4.75 miles west of Harbor Beach.  Lot is first left/west at Huron County Road Commission lot.",Yes,2019,10,3,Yes,Paved,32,"Sand Beach Rd
+Harbor Beach, Mi 48411",6,6
+-84.76734107,43.843668876,430,17,1041604,0.043,318001,CL,P,Clare,US-127,US-127BR/Colonville Road,160,NE,"From northbound US-127/westbound US-10 take Business US-127/Colonville Road (Exit 160) north of Clare. (This is the second Clare exit on US-127.) Turn left/west at end of ramp onto Colonville Road. Lot is first left/south.
+
+From southbound US-127/eastbound US-10 take Business US-127/Colonville Road (Exit 160) north of Clare. (This is the first Clare exit.) Turn left/north at end of ramp onto BR US-127/Clare Road. Cross under freeway and turn right/east onto Colonville Road (first right/east past freeway). Lot is first right/south.",Yes,2019,36,22,Yes,Paved,18,"4360 E Colonville Rd
+Clare, Mi 48617",6,7
+-84.784564887,44.435663558,431,17,1052202,0.949,472001,CL,P,Higgins Lake,US-127,South Higgins Lake Road,201,NE,"From northbound US-127 (Exit 201) at Higgins Lake Road. Exit is also signed as South Higgins Lake Road State Park exit). Turn right/east at end of ramp. Lot is first left/north.
+
+From southbound US-127 (Exit 201) at Higgins Lake Road (also signed the South Higgins Lake Road State Park exit). Turn left/east at end of ramp. Lot is first left/north east of northbound on-ramp.",Yes,2019,25,0,No,Paved,72,"Pine Rd
+Roscommon, Mi 48653",7,7
+-83.807721632,44.141130699,432,17,1066208,9.806,606001,CL,P,Twining,M-65,Maple Ridge Road,,SE,"From northbound M-65, lot is on right/east 1 mile north of Swartz Road just before Maple Ridge Road about 6.5 miles north of US-23 junction east of Omer.
+
+From southbound M-65, lot is first left/east past Maple Ridge Road about 6.5 miles south of Whittemore.",Yes,2019,7,0,Near,Paved,6,"1863 Hale Rd
+Twining, Mi 48766",7,8
+-84.018735487,43.9831405940001,433,17,1067301,1.33,606002,CL,P,Standish,I-75,M-61,190,SW,"From northbound I-75, take exit 190 near Standish. Turn left/west onto M-61. Lot is first left/south inside interchange.
+
+From southbound I-75, take exit 190 near Standish. Turn left/east onto M-61. Lot is first right/south.
+
+From eastbound M-61, lot is first right/south past southbound I-75 on-ramp inside I-75 interchange west of Standish.
+
+From westbound M-61, lot is first left/south past northbound I-75 on-ramp inside I-75 interchange 3 miles west of US-23/M-61 junction in Standish.",Yes,2019,50,12,Yes,Paved,6,"5353 M-61
+Standish, Mi 48658",7,8
+-85.19458668,44.7427358570001,434,17,1098301,7.707,340002,CL,P,Kalkaska - West,M-72,,,SW,"From US-131 take M-72 west to West Kalkaska Road. Turn left (south) lot is on the right.
+
+From US-31 take M-72 east to West Kalkaska Road. Turn right (south) lot is on the right.",Yes,2019,30,2,No,Paved,40,,8,8
+-85.409614528,44.8941603160001,435,17,1108504,0.466,305001,CL,P,Elk Rapids,US-31,Fourth Street,,NE,"From northbound US-31 turn right/east onto Fourth Street in Elk Rapids. Lot is on left/north.
+
+From southbound US-31 turn left/east onto Fourth Street in Elk Rapids. Lot is on left/north.",Yes,2019,40,2,Near,Paved,5,"1st St
+Elk Rapids, Mi 49629",7,7
+-84.3666934509999,43.9834075810001,437,17,1119804,12.089,626001,CL,P,Wooden Shoe Village,M-30,M-61,,NE,"From northbound M-30, lot is first right/east past motel entrance near Lockwood Drive about 0.2 miles north of M-61 intersection east of Gladwin.
+
+From southbound M-30, lot is first left/east past Lockwood Drive just north of M-61 east of Gladwin (about 25 miles south of West Branch).
+
+From eastbound M-61, turn left/north onto M-30 6 miles east of Gladwin. Lot is on right/east just past motel entrance near Lockwood Drive.
+
+From westbound M-61, turn right/north onto M-30 east of Gladwin (17 miles west of I-75). Lot is on right/east just past motel entrance at Lockwood Drive intersection.",Yes,2019,50,15,No,Paved,26,"201 M-30
+Gladwin, Mi 48624",8,8
+-84.4875519719999,43.8822488650001,438,17,1123403,2.059,626002,CL,P,Beaverton,M-18/Ross Street,Brown Street,,S,"From northbound M-18/Ross Street, turn left/west onto Brown Street in Beaverton. Lot is on left/south about 1.5 blocks from traffic light.
+
+From southbound M-18/Ross Street, turn right/west onto Brown Street in Beaverton. Lot is on left/south about 1.5 blocks from traffic light.",Yes,2019,20,6,Yes,Paved,26,"144 W Brown St
+Beaverton, Mi 48612",5,5
+-85.3798024,44.4038275400001,439,17,1127709,3.944,383003,CL,P,Manton,US-131,M-42/US-131 BR,191,NE,"From northbound US-131 take exit 191 and turn right/west onto M-42/US-131 BR. Lot is on right/north.
+
+From southbound US-131 take exit 191 and turn left/east onto M-42/US-131 BR. Lot is on left/north.
+
+From eastbound M-42/US-131 BR lot is on left/north, just east of US-131 overpass.
+
+From westbound M-42/US-131 BR lot is on right/north, just east of US-131 overpass.
+",Yes,2019,30,3,No,Paved,83,"9875 No 16 1/2 Rd
+Manton, Mi 49663",6,6
+-85.416392104,44.2080683900001,440,17,1127810,26.852,383002,CL,P,Cadillac - South,US-131,M-115,176,NW,"From northbound US-131 take exit 176 and turn left/west onto M-55/M-115. Lot is on right/north.
+
+From southbound US-131 take exit 176 and turn right/west onto M-55/M-115. Lot is on right/north.
+
+From eastbound M-55/M-155 lot is on left/north, just west of US-131 interchange.
+
+From westbound M-55/M-115 lot is on right/north, just west of US-131 interchange.",Yes,2019,13,3,Near,Paved,83,"E 46 Mile Rd
+Cadillac, Mi 49601",5,5
+-85.376680296,44.281348838,441,17,1131507,13.129,383001,CL,P,Cadillac - North,US-131,Boon Rd.,,NA,"From northbound US - 131 turn right/east onto Boon Rd. in Cadillac.  Lot is on right/south.
+
+From southbound US -131 turn left/east onto Boon Rd. in Cadillac.  Lot is on right/south.",Yes,2019,28,1,Yes,Paved,83,"9398 E Boon Rd
+Cadillac, Mi 49601",5,5
+-86.928830628,46.3337589450001,442,17,1138308,1.893,202001,CL,P,Chatham Corners,M-94,M-67,,NE,"From northbound M-67 continue straight on M-94 at M-67/M-94 junction north of Limestone.  Lot is first right/east past junction.
+
+From westbound M-94 turn right/north at M-67/M-94 junction 4 miles west of Forest Lake (stay on M-94).  Lot is first right/east.
+
+From eastbound M-94 lot is last left/east before M-64 1 mile south of Chatham.",Yes,2019,10,0,Near,Paved,2,"M-94
+Chatham, Mi 49816",5,9
+-85.5708238879999,46.1009214900001,443,17,1142108,14.11,249004,CL,P,Crossroads,M-553,CR-480,,NE,"From northbound M-553 turn left into lot 200 feet south of CR-480.
+
+From southbound M-553 turn right into lot 200 feet south of CR-480.
+
+Lot is in south parking lot of Crossroads Bar/Restaurant.",Yes,2019,21,4,Yes,Paved,52,"900 CO RD 480, Marguette, MI",6,9
+-85.4477005799999,46.0945850350001,444,17,1142108,20.131,249005,CL,P,Naubinway East,US-2,Naubinway Rd,,NW,"From eastbound US-2 lot is on left/north just before (west of) the intersection with Naubinway Road.
+
+From westbound US-2 lot is on right/north just after (west of) the intersection with Naubinway Road.",No,2019,6,1,Near,Paved,49,"Naubinway Rd
+Naubinway, Mi 49762",8,8
+-85.571485291,46.1013016250001,445,17,1142208,0.026,249003,CL,P,Engadine,US-2,M-117,,NE,"Eastbound US - turn right/north
+
+Westbound US-2 turn left/north",No,2019,11,2,Near,Paved,49,"U.S. 2 
+Engadine, Mi 49827",9,9
+-84.748130354,45.963248557,446,17,1143101,4.635,249001,CL,P,St. Ignace,I-75,M-123,352,SE,"From northbound I-75 take exit 352/M-123 north of St. Ignace.  Turn right/east onto M-123.  Turn right/south onto Mackinac Trail (where M-123 ends).  Lot is first right/west.
+
+From southbound I-75 take exit 352/M-123.  Turn left/east onto M-123.  Turn right/south onto Mackinac Trail (where M-123 ends).  Lot is first right/west.
+
+From southbound M-123 cross over I-75 at interchange 4 miles southeast of Allenville.  Turn right/south onto Mackinac Trail (where M-123 ends).  Lot is first  right/west.",Yes,2019,10,1,Near,Paved,49,"Mackinac Trail
+St Ignace, Mi 49781",8,9
+-84.678104175,46.0569627250001,447,17,1143604,0.659,249002,CL,P,Red Creek Trail,I-75,M-134,359,SE,"From Southbound I-75 take exit 359.  Turn Left/East onto M-134. Lot is first Left on the North side of M-134.
+
+From Northbound I-75 take exit 359.  Turn Right/East onto M-134.  Lot is first Left on the North side of M-134.",Yes,2019,10,4,No,Paved,49,"M-134
+Hessel, Mi 49745",8,6
+-85.848554136,44.790193581,448,17,1147507,12.043,345001,CL,P,Traverse City - West,M-72,County Road 667,,NE,"From westbound M-72 lot is last right/ north before County Road 667 about 0.5 miles past Bright Road 10.5 miles west of M-22 intersection northwest of Traverse City.
+
+From eastbound M-72 lot is first left/ north past County Road 667 about 13 miles east of M-22 intersection in Empire.",Yes,2019,37,1,No,Paved,45,"465 E Traverse Hwy
+Maple City, Mi 49664",5,5
+-85.653746107,44.9745883210001,449,17,1151503,0.005,345002,CL,P,Suttons Bay,Broadway,Lincoln Street,,NW,"From northbound M-22 (from Traverse City) in Suttons Bay turn left/west onto Broadway.  Lot is on right/north just past Lincoln 2 blocks west of M-22.
+
+From southbound M-22 (from Northport) in Suttons Bay turn right/west onto Broadway (south of business district).  Lot is on right/north just past Lincoln 2 blocks west of M-22.",No,2019,10,0,Near,Gravel,45,"112 Lincoln Ave
+Suttons Bay, Mi 49682",7,7
+-84.785931971,45.4456425540001,451,17,1164507,11.046,424002,CL,P,Alanson,US-31,M-68,,NW,"From northbound US-31 lot is located on left/west side of road north of M-68 intersection in Alanson.
+
+From southbound US-31 in Alanson lot is on right/west side of road just before M-68 intersection.
+
+From westbound M-68 turn north onto US-31 at Alanson. Lot is on left/west.",Yes,2019,20,8,Near,Paved,24,"7260 Burr Ave
+Alanson, Mi 49706",4,3
+-84.784436313,45.5540313860001,452,17,1164507,18.556,424001,CL,P,Pellston,US-31,West Edgar Street,310,NW,"From northbound US-31 in Pellston lot is on left/west side of road just past Edgar Street.
+
+From southbound US-31 in Pellston lot is on right/west side of road just past Edgar Street.",Yes,2019,17,2,Yes,Paved,24,"210 Stimpson St
+Pellston, Mi 49769",4,4
+-88.578050526,47.1210850840001,453,17,1175707,5.058,131001,CL,P,Houghton,M-26,4th Street,,NA,"From northbound US-41 in Houghton proceed on southbound M-26 instead of taking lift bridge north to Hancock.  Lot lies on right/north side of road along canal across from 4th Street.
+
+From southbound US-41/M-26 turn right/west onto M-26 after crossing lift bridge in Houghton.  Lot lies on right/north side of road along canal across from 4th Street.
+
+From northbound M-26 lot lies along canal on left/north across from 5th Street in Houghton.",No,2019,36,18,Near,Paved,31,"409 Memorial Rd, Houghton, MI 49931",8,8
+-88.4089941569999,47.1923660520001,454,17,1175707,15.789,131003,CL,P,Lake Linden,M-26,4th Street,,SE,"From northbound M-26 turn right/east onto 4th Street in Lake Linden.  Lot is on right/south across from city hall and police station.
+
+From southbound M-26 turn left/east onto 4th Street in Lake Linden.  Lot is on right/south across from city hall and police station.",Yes,2019,12,5,Near,Paved,31,"4th St Lake Linden, Mi 49945",9,9
+-88.527348225,47.022786873,455,17,1178404,7.424,131002,CL,P,Chassell,US-41,,,NA,"From northbound US-41, the lot is located beyond the Chassell city sign at the south end of the Krist fuel station parking lot.",No,2019,10,6,Near,Paved,31,"606 Wilsom Memorial Dr, Chassell, Mi 49916",6,8
+-88.1185985019999,46.537567504,456,17,1189907,0.092,107005,CL,P,Michigamme,US-41,Michigamme Market,,S,"From northbound (westbound) US-41/westbound M-28 lot lies on leftt/south side of road 0.5 miles west of Michigamme, just west of the Baraga/Marquette County Line.
+
+From southbound (eastbound) US-41/eastbound M-28 lot lies on right/south side of road, just west of the Baraga/Marquette County Line, 4.5 miles east of Three Lakes (0.5 miles west of Michigamme).",No,2019,12,0,Near,Paved,7,"28 Michigan, Michigamme, MI 49861",6,4
+-88.470662835,46.5839802770001,457,17,1189907,17.592,107002,CL,P,Alberta,M-28,US-141 (N Junction),,NE,"From northbound US-41/westbound M-28 lot is last right/north before US-141/M-28 junction west of Three Lakes.
+
+From northbound US-141/eastbound M-28 turn right/east onto US-41/M-28 at junction east of Covington.  Lot is first left/north.
+
+From southbound US-41 lot is first left/north past M-28/US-141 junction south of Alberta.",No,2019,30,4,Yes,Paved,7,"M-28 Covington, Mi 49919",5,5
+-88.428195017,46.723097738,458,17,1189907,27.92,107001,CL,P,L'Anse,US-41,Baraga County Road Commission,,NA,"From northbound US-41 lot is last right/east before Baraga County Road Commission 6.5 miles north of Alberta.
+
+From southbound US-41 lot is first left/east past Baraga County Road Commission 1.5 miles south of L'Anse.",No,2019,25,2,Yes,Gravel,7,"18139 US Highway 41, Lanse, MI 49946",5,5
+-88.4832596209999,46.7823916990001,459,17,1189907,34.895,107004,CL,P,Baraga,US-41,M-38,,NE,"From northbound US-41 lot lies on right/east side of road 0.2 miles north of M-38 junction in Baraga.
+
+From southbound US-41 lot lies on left/east side of road in Baraga about 0.25 miles south of northern village limit.",No,2019,33,3,No,Paved,7,"404 U.S. 41 Baraga, Mi 49908",7,7
+-85.460324801,43.4321385760001,461,17,1206204,9.933,559001,CL,P,Lakeview/Amble,M-46,Old US-131/Federal Road,,NE,"From northbound US-131/eastbound M-46 take exit 120 north of Howard City.  Turn right/east onto M-46.  Turn left/north onto Old US-131 about 2 miles east of interchange .  Lot is first right/east.
+
+From southbound US-131 take exit 120 north of Howard City.  Turn left/east onto M-46.  Turn left/north onto Old US-131 about 2 miles east of interchange.  Lot is first right/east.
+
+From westbound M-46 turn right/north onto Old US-131 about 10 miles west of Lakeview.  Lot is first right/east.",Yes,2019,20,6,Yes,Paved,59,"Co Rd 599
+Howard City, Mi 49329",9,9
+-85.517210658,43.3958534650001,462,17,1206501,2.285,559004,CL,P,Howard City,US-131,M-82,118,SW,"From northbound US-131 take exit 118/M-82 near Howard City.  Turn left/west onto M-82.  Lot is first left/south inside interchange.
+
+From southbound US-131 take exit 118/M-82 near Howard City.  Turn left/east onto M-82.  Lot is first right/south beyond overpass inside interchange.
+
+From eastbound M-82 lot is first right/south past overpass inside US-131 interchange 14 miles east of M-37 intersection in Newaygo.",Yes,2019,35,20,Yes,Paved,59,"21950 Howard City Edmore Rd
+Howard City, Mi 49329",8,8
+-84.848788857,43.176097715,463,17,1211706,0.259,559002,CL,P,Carson City,M-57,Miner Street,,SE,"From westbound M-57 turn left/south onto Miner Street in Carson City.  Turn left/east onto Elm Street (first street south).  Lot is first left/north.
+
+From eastbound M-57 turn right/south onto Miner Street in Carson City.  Turn left/east onto Elm Street (first street south).  Lot is first left/north.",Yes,2019,16,0,Yes,Paved,59,"280 W Elm St
+Carson City, Mi 48811",4,4
+-85.5471729609999,43.2952171650001,464,17,1216202,0.065,559003,CL,P,Sand Lake,US-131,22 Mile Road/M-46,110,NW,"From northbound US-131 take exit 110 near Sand Lake.  Turn left/west onto 22 Mile Road.  Turn right/north onto Whitefish Road (first right/north past southbound US-131 off-ramp).  Lot is first right/east.
+
+From southbound US-131 take exit 110 near Sand Lake.  Turn right/west onto 22 Mile Road.  Turn right/north onto Whitefish Road (first right/north).  Lot is first right/east.",Yes,2018,30,7,Yes,Paved,59,"65 Whitefish Rd
+Sand Lake, Mi 49343",8,8
+-84.030457,44.996546,465,17,1218401,9.731,460001,CL,P,Atlanta,M-32,M-33 (E Junction),,SW,"From northbound M-33 turn left/west onto Old M-32/Dobbyn Road (last road before M-32 east of Atlanta). Lot is first right/north.
+
+From westbound M-32 turn left/south onto M-33 west of Hillman. Turn right/west onto Old M-32/Dobbyn Road (first road after M-32/M-33 junction). Lot is first right/north.
+
+From eastbound M-32/M-33 turn right/south onto M-32 east of Atlanta. Turn right/west onto Old M-32/Dobbyn Road (first road after M-32/M-33 junction). Lot is first right/west.",Yes,2019,15,1,No,Paved,60,"18156 Dobbyn Rd, Atlanta, MI 49709",7,8
+-83.670931837,41.960229118,466,17,1224204,0.091,858002,CL,P,Dundee,US-23,M-50,17,NE,"From southbound US-23, take exit 17 near Dundee. Turn left/east onto M-50. Turn left/north onto Ann Arbor Road (Old Us-23) just pass northbound US-23 on-ramp across freeway. Lot is first left/west.
+
+From northbound US-23, take exit 17 near Dundee.Turn right/east onto M-50. Turn left/north onto Ann Arbor Road (Old US-23) which is first left/north past interchange. Lot is first left/west.
+
+From eastbound M-50, turn left/north onto Ann Arbor Road (Old US-23) just past US-23 interchange near Dundee. Lot is first left/west.
+
+From westbound M-50, turn right/north onto Ann Arbor Road (Old US-23) west of Dundee just before US-23 interchange. Lot is first left/west.",Yes,2019,55,42,Yes,Paved,58,"4465 Ann Arbor Rd
+Dundee, Mi 48131",9,8
+-83.395876154,41.8804504410001,467,17,1234708,1.837,858001,CL,P,Monroe - South,I-75,LaPlaisance Road,11,SW,"From southbound I-75 take exit 11 south of Monroe. Turn right/north onto Laplaisance Road. Turn left/west onto Albain Road (service drive which is first road north of interchange). Lot is first left/south.
+
+From northbound I-75 take exit 11 south of Monroe. Turn left/north onto Laplaisance Road. Turn left/west onto Albain Road (service drive which is first road north of interchange). Lot is first left/south.",Yes,2019,42,24,Yes,Paved,58,"6670 E Albain Rd
+Monroe, Mi 48161",7,7
+-83.365647489,42.0639824960001,468,17,1237108,3.074,858003,CL,P,Carleton,I-275,Rockwood Road,5,SW,"From southbound I-275, take exit 5 near Carleton. Turn right/west onto Carleton-Rockwood Road. Turn left/south  onto Calkins Road (first road west of interchange). Lot is first left/east.
+
+From northbound I-275, take exit 5 near Carleton. Turn left/west onto Carleton-Rockwood Road. Turn left/south onto calkins Road (first road west of interchange). Lot is first left/east.",Yes,2019,20,5,Near,Paved,58,"13049 Calkins Rd, Carleton, MI 48117",4,8
+-89.078472629,46.7615502360001,469,17,1271008,1.077,166001,CL,P,Mass City,M-26,Adventure Ave / Depot Rd,,SE,"From northbound M-26 turn right/south onto Adventure Avenue (Depot Road) in Mass City (about 5 miles north of US-45 junction).  Lot is first right/west.
+
+From southbound M-26 turn left/south onto Adventure Avenue (Depot Road) in Mass City (about 1.5 miles south of M-38 junction east of Greenland).  Lot is first right/west just past corner.",Yes,2019,20,2,No,Paved,66,"Depot Rd, Mass City, Mi 49948",8,8
+-89.175959742,46.534874965,470,17,1271101,28.252,166003,CL,P,Bruce Crossing,US-45,M-28,,SE,"From northbound US-45 turn right/east onto M-28. Lot is on the right/south after the Bruce Crossing Fire Department.
+
+From southbound US-45 turn left/east onto M-28. Lot is on the right/south after the Bruce Crossing Fire Department.
+
+From eastbound M-28 lot is on the right/south after the Bruce Crossing Fire Department.
+
+From westbound M-28 lot is on the left/south east of the Bruce Crossing Fire Department.",No,2019,21,2,Near,Paved,66,"5549 M-28
+Bruce Crossing, MI 49912",8,8
+-88.565737529,46.1060744390001,471,17,1277904,4.507,136002,CL,P,Iron River,US-2,Bates-Amasa Road,,NW,"From westbound US-2 lot is first right/north past Bates-Amasa Road (County Road 643) about 11 miles west of US-141 junction in Crystal Falls.
+
+From eastbound US-2 lot is last left/north before Bates-Amasa Road (County Road 643) about 4 miles east of Iron River.",Yes,2019,25,0,Near,Paved,36,"123 Willis Rd
+Iron River, Mi 49935",6,5
+-85.468534098,44.102740827,472,17,1289710,4.754,367001,CL,P,Tustin,US-131,Marion Road,168,NE,"From northbound US-131 take exit 168/20 Mile Road/Marion Road.  Turn right/east onto Marion Road.  Lot is first left/north.
+
+From southbound US-131 take exit 168/20 Mile Road/Marion Road.  Turn left/east onto Marion Road.  Lot is first left/north.",No,2019,15,10,Yes,Paved,67,"19150 W Marion Rd
+Tustin, Mi 49688",4,4
+-85.530615886,43.887459474,474,17,1290603,1.585,367006,CL,P,Reed City,US-131,US-10,153,SE,From northbound US-131 take exit 153/US-10. Turn left/west onto US-10. Lot is first left/south. From southbound US-131 take exit 153/US-10. Turn left/east onto US-10. Lot is first right/south after US-131 overpasses. From westbound US-10 lot is first left/south past northbound US-131 on/off ramps at interchange west of Reed City. From eastbound US-10 lot is first right/south past US-131 overpasses at interchange west of Reed City.,Yes,2019,41,13,No,Paved,67,"22378-22998 U.S. 10
+Reed City, Mi 49677",8,8
+-85.1482661269999,43.900750025,475,17,1290603,21.447,367002,CL,P,Evart/Sears,US-10,M-66,,SW,"From westbound US-10 lot is first left/south past M-66 intersection 12 miles west of US-10/M-115 interchange northwest of Clare.
+
+From eastbound US-10 lot is last right/south before US-10/M-66 intersection about 18 miles east of Reed City.
+
+From northbound M-66 lot is last left/west before intersection with US-10 21 miles north of Mecosta.
+
+From southbound M-66 lot is first right/west south of intersection with US-10 9 miles south of M-66/M-115 intersection near Gormer.",Yes,2019,15,0,Yes,Gravel,67,"3077 US-10,Sears, MI 49679",5,5
+-85.50742292,43.974282234,476,17,1290708,0.557,367005,CL,P,Ashton,US-131,Ashton Road,159,NE,"From northbound US-131 take exit 159/11 Mile Road/Ashton Road near Ashton.  Turn right/east onto Ashton Road.  Lot is first left/north.
+
+From southbound US-131 take exit 159/11 Mile Road/Ashton Road near Ashton.  Turn left/east onto Ashton Road.  Lot is first left/north past interchange.",Yes,2019,22,2,No,Paved,67,"Mackinaw Trail
+Le Roy, Mi 49655",5,5
+-85.505201433,44.017272372,477,17,1293802,1.088,367004,CL,P,Luther/Leroy,US-131,Luther Road,162,NW,"From northbound US-131 take exit 162/14 Mile Road/Luther north of Ashton.  Turn left/west onto Luther Road.  Lot is first right/north past interchange.
+
+From southbound US-131 take exit 162/14 Mile Road/Luther south of Cadillac.  Turn right/west onto Luther Road.  Lot is first right/north.",Yes,2019,22,1,No,Paved,67,"14819 210th Ave
+Le Roy, Mi 49655",6,6
+-84.994399852,42.105821689,478,17,1295308,8.572,731007,CL,P,Tekonsha,I-69,M-60,25,NE,"Southbound I-69: exit #25 (M-60), turn left/east on M-60; lot on north side of M-60.
+
+Northbound I-69: exit #25 (M-60), left/west on M-60; lot on north side of M-60.",Yes,2019,16,8,No,Paved,13,"15575 M-60, Tekonsha, Mi 49092",8,8
+-85.293070723,42.274404271,479,17,1296507,0.257,713004,CL,P,Battle Creek - Southwest,I-94,I-94BL/Columbia Avenue,92,NE,"From westbound I-94 take exit 92 southwest of Battle Creek.  Turn right/north onto Business I-94/Columbia Avenue.  Lot is first right/east.
+
+From eastbound I-94 take exit 92 southwest of Battle Creek.  Turn right/north onto Business I-94/Columbia Avenue.  Lot is first right/east past westbound I-94 on-ramp.
+
+From westbound (southbound) Business I-94/Columbia Avenue in Battle Creek lot is last left/east before westbound I-94 on-ramp about 3.5 miles south of M-96/Dickman Road.",Yes,2019,69,7,Near,Paved,13,"4949 W Columbia Ave
+Battle Creek, Mi 49015",10,10
+-85.156215047,42.282197823,480,17,1296707,2.523,713001,CL,P,Battle Creek - Southeast,I-94,M-294,100,NW,"From westbound I-94 take exit 100 southeast of Battle Creek.  Turn left/south onto M-294 (Beadle Lake Road).  Lot is first right/west inside interchange.
+
+From eastbound I-94 take exit 100 southeast of Battle Creek.  Turn left/north onto M-294 (Beadle Lake Road).  Lot is first left/west past overpass inside interchange.",Yes,2019,53,19,Yes,Paved,13,"14401 Beadle Lake Rd
+Battle Creek, Mi 49014",8,8
+-84.757639742,42.26587534,481,17,1297504,1.056,713006,CL,P,Albion,I-94,28 Mile Rd,121,NW,"From eastbound I-94:  Exit at number 121 turn North (left) on BL I-94.  Then West (left) on C Drive North.  Lot is on the South (left) side of the road.
+
+From westbound I-94:  Exit at number 121 turn North (right) on BL I-94.  Then West (left) on C Drive North.  Lot is on the South (left) side of the road.",Yes,2019,53,14,Near,Paved,13,"27950 C-Drive N.
+Albion, Mi 49224",7,7
+-84.9919575279999,42.2696737200001,482,17,1301102,0.449,713002,CL,P,Marshall,I-69,I-94BL/Michigan Avenue,36,SW,"From southbound I-69 take exit 36 near Marshall (2 miles south of I-94 exit 108).  Turn left/east onto Business I-94/Michigan Avenue.  Lot is first right/south inside interchange.
+
+From northbound I-69 take exit 36 near Marshall.  Turn left/west onto Business I-94/Michigan Avenue.  Lot is first left/south past overpass inside interchange.
+
+From westbound Business I-94/Michigan Avenue in Marshall lot is first left/south past I-69 overpass inside interchange west of town.",Yes,2019,105,24,Yes,Paved,13,"15720 Michigan Ave E
+Marshall, Mi 49068",10,10
+-84.984673362,42.3498394050001,483,17,1311506,7.575,713003,CL,P,Turkeyville,I-69,"""N"" Drive",42,SW,"From southbound I-69 take exit 42 south of Olivet.  Turn right/west onto N Drive North.  Lot is first left/south.
+
+From northbound I-69 take exit 42 north of Marshall.  Turn left/west onto N Drive North.  Lot is first left/south past southbound I-69 on-ramp.",Yes,2019,16,4,No,Paved,13,"16325 Turkeyville Rd, Marshall, MI 49068",8,8
+-87.520904269,45.6926213850001,485,17,1324107,10.095,155001,CL,P,Powers,US-2,US-41,,NE,"From westbound US-2/southbound US-41 turn right/north onto US-2 west of Spalding.  Lot is first right/east.
+
+From eastbound US-2 lot is last left/east before US-41 intersection east of Hermansville.
+
+From northbound US-41 turn left/north onto US-2 near Powers.  Lot is first right/east.
+
+Behind Weigh Station",No,2019,18,3,Yes,Paved,55,"U.S. 2 
+Powers, Mi 49874",7,7
+-87.022064942,45.8544491220001,486,17,1349908,1.006,221001,CL,P,Gladstone,US-2,US-41,,NA,"From westbound US-2/southbound US-41 turn left/east on connector to Old US-2/US-41/Lake Shore Avenue in Gladstone (first street past Buckeye).  Turn right/south onto Old US-2/US-41.  Lot is on right/west just south of connector.
+
+From eastbound US-2/northbound US-41 turn right/east onto 5th Avenue (first street north of M-35) in Gladstone.  Turn left/north onto Old US-2/US-41/9th Street.  Lot is first right/west north of railroad spur.",Yes,2019,16,9,Near,Paved,21,"243 Rains Dr
+Gladstone, Mi 49837",8,8
+-86.974485172,45.927968321,487,17,1350005,0.093,221006,CL,P,Rapid River West,US-2,US-41,,NW,"From eastbound US-2 lot is on left/north before intersection with US-41.
+
+From westbound US-2 lot is on right/north after intersection with US-41.
+
+From northbound US-41 lot is on left/west after intersection with US-2.
+
+From southbound US-41 lot is on right/west before intersection with US-2.
+
+Lot is shared with Rapid River Mini-Mart.",Yes,2019,45,22,Yes,Paved,21,,8,8
+-86.537364811,45.89046003,488,17,1350405,2.084,221002,CL,P,Garden Corners,US-2,M-183,,NE,"From westbound US-2 turn right/north onto County Road N-32 at US-2/M-183 junction at Garden Corners (N-32 and M-183 form a crossroads with US-2). Lot is first right/east.
+
+From eastbound US-2 turn left/north onto County Road N-32 at US-2/M-183 junction at Garden Corners (N-32 and M-183 form a crossroads with US-2). Lot is first right/east.
+
+From northbound M-183 continue straight across US-2 on County Road N-32 at Garden Corners (M-183 becomes N-32 at US-2_. Lot is first right/east north of intersection.
+",No,2019,15,5,Near,Paved,21,"M-183
+Cooks, Mi 49817",9,9
+-87.1909193559999,45.7352087990001,489,17,1351805,6.94,221003,CL,P,Hyde,US-2,County Road 521,,NE,"From westbound US-2/southbound US-41 lot is last right/north before bridge over Ford River about 6.5 miles west of M-35 junction in Escanaba (0.5 miles east of Hyde).
+
+From eastbound US-2/northbound US-41 lot is about 0.5 miles east of Hyde (3 miles east of M-69 junction) on left/north side of road just east of bridge over Ford River.",No,2019,8,0,No,Gravel,21,"3539 U.S. 41
+Escanaba, Mi 49829",6,4
+-87.263740571,45.7226085710001,490,17,1352101,5.209,221005,CL,P,Bark River,M-69,US-2/41,,NE,"From northbound M-69, turn right (east) into lot.
+
+From southbound M-69, turn left (east) into lot.
+
+Note: Enter from M-69, exit onto US-2/41 (one-way lot).",Yes,2019,22,5,Near,Paved,21,"2138 US-2, 
+Bark River, Mi 49807",7,6
+-86.928916215,45.9046453940001,491,17,1354704,2.034,221004,CL,P,Rapid River,US-2,County Road 513,,SE,"From westbound US-2 turn left/south onto County Road 513 about 20 miles west of M-183 junction at Garden Corners (3.5 miles east of Rapid River).  Lot is first left/east just south of intersection.
+
+From eastbound US-2 turn right/south onto County Road 513 about 3.5 miles east of US-41 junction at Rapid River.  Lot is first left/east just south of intersection.",Yes,2019,18,0,No,Paved,21,"County Rd 513
+Rapid River, Mi 49878
+",8,8
+-86.5142517959999,42.0318768710001,492,17,1360705,0.224,711001,CL,P,St. Joseph/Stevensville,I-94,I-94BL/Lakeshore Drive,23,NW,"From westbound I-94 take exit 23 north of Stevensville.  Turn left/south onto Business I-94/Red Arrow Highway.  Lot is first right/west inside interchange.
+
+From eastbound I-94 take exit 23 north of  Stevensville.  Turn right/north onto Business I-94/Red Arrow Highway.  Lot is first left/west inside interchange.
+
+From southbound Business I-94/Red Arrow Highway south of St. Joseph lot is first right/west past westbound I-94 on-ramp inside interchange.",Yes,2019,48,15,Near,Paved,11,"4610 Red Arrow Hwy
+Stevensville, Mi 49127",9,9
+-86.378328,42.088924,493,17,1367002,5.613,711007,CL,P,Millburg,US-31,Napier Dr,24,SW,"From SB US-31/I-94, take Exit 30.  Turn left on Napier Rd.  Go 1.6 miles.  Lot is first drive on the right before SB on-ramp.
+
+From NB US-31, take last exit.  Turn left on Napier Rd.  Lot is first drive on the left past SB on-ramp.",Yes,2019,36,7,No,Paved,11,"3300 E Napier Ave
+Benton Harbor, Mi 49022",4,4
+-86.437679386,42.0745499610001,494,17,1367306,1.035,711005,CL,P,Benton Harbor/St. Joseph,I-94,M-139/Nickerson Ave,28,NW,"From I-94 take exit 28 and go north on M-139.  Turn left/west on Nickerson Ave, first driveway on left adjoining with Greyhound station.",Yes,2019,32,6,Yes,Paved,11,"948 Nickerson Ave
+Benton Harbor, Mi 49022",8,8
+-86.309508868,41.8277218210001,495,17,1371708,4.035,711008,CL,P,Niles,US-31,Buchanan Road,5,NE,"From US-31, take Exit 5 (Niles-Buchanan) Road.  Lot is northeast of exit.",Yes,2019,23,6,No,Paved,11,"2451 Niles Buchanan Rd
+Niles, Mi 49120",8,8
+-84.0261515,42.2962034990001,497,17,1425710,16.853,881001,CL,P,Chelsea,I-94,M-52,159,NE,"From eastbound I-94, take exit 159 near Chelsea. Turn right/north onto M-52. Lot is first right/east across from westbound I-94 on-ramp.
+
+From westbound I-94, take exit 159 near Chelsea. Turn left/north onto M-52. Lot is first right/east.
+
+From southbound M-52, lot is on left/east across from westbound I-94 on-ramp north of freeway overpass about 1.5 miles south of Chelsea.
+
+From northbound M-52, lot is first right/east north of I-94 overpass across from westbound I-94 on-ramp at interchange south of Chelsea (11 miles north of Manchester).",Yes,2019,57,43,Yes,Paved,81,"1982 Chelsea Manchester Rd
+Chelsea, Mi 48118",5,6
+-84.0331843559999,42.1915437010001,498,17,1426007,3.223,881006,CL,P,Manchester,M-52,Pleasant Lake Road,,NW,"From southbound M-52, turn right/west onto Pleasant Lake Road about 7.5 miles south of I-94 interchange near Chelsea. Lot lies on right/north side of road (parking perpendicular to roadway in wide shoulder).
+
+From northbound M-52, turn left/west onto Pleasant Lake Road about 3.5 miles north of Manchester. Lot lies on right/north side of road (parking perpendicular to roadway in wide shoulder).",Yes,2019,15,1,Yes,Gravel,81,,5,4
+-83.843006545,42.2890112,499,17,1426508,15.981,881008,CL,P,Ann Arbor - Meijer,I-94,Jackson Road,169,SW,,Yes,2015,50,,Yes,Paved,81,"5645 Jackson Rd, 
+Ann Arbor, MI
+48103",,
+-83.878103246,42.3009610490001,500,17,1426608,0.502,881002,CL,P,Dexter,I-94,Baker Road,167,NE,"From eastbound I-94, take exit 167 near Dexter. Turn left/north onto Baker Road. Lot is first right/east north of westbound I-94 off-ramp.
+
+From westbound I-94, take exit 167 near Dexter. Turn right/north onto Baker Road. Lot is first right/east.",Yes,2019,27,23,Near,Paved,81,"576 Baker Rd
+Dexter, Mi 48130",6,6
+-83.7880721339999,42.2988108220001,501,17,1430906,2.995,881007,CL,P,Ann Arbor - Northwest,M-14,Miller Rd.,2,SW,"From westbound M-14, take Miller/Maple exit. Turn left/east onto Miller. Lot is on right/south.
+
+From eastbound M-14, take Miller/Maple exit. Turn left/west onto Miller. Lot is on left/south after overpass.",Yes,2019,165,116,Yes,Paved,81,"Miller Rd
+Ann Arbor, Mi 48103",8,8
+-83.7621845789999,42.246541526,502,17,1436706,2.619,881003,CL,P,Ann Arbor - Southwest,I-94,Saline Road,175,NW,"From eastbound I-94, take exit 175 near Ann Arbor. Turn left/north onto Saline Road. Lot is first left/west past overpass inside interchange.
+
+From westbound I-94, take exit 175 near Ann Arbor (5 miles west of US-23 exit 35). Turn left/south onto Saline Road. Lot is first right/west inside interchange.",Yes,2019,30,14,Near,Paved,81,"2690 Ann Arbor-Saline Rd
+Ann Arbor, Mi 48103",8,6
+-83.6176490669999,42.2255394700001,503,17,1439102,10.165,881004,CL,P,Ypsilanti,I-94,Huron/US-12BR/Whittaker,183,SE,"From eastbound I-94, take exit 183 near Ypsilanti. Turn right/south onto Business US-12/Huron/Whittaker Road. Lot is first left/east.
+
+From westbound I-94, take exit 183 near Ypsilanti. Go straight across northbound Business US-12/Huron/Whittaker Road (i.e. go straight/west at the traffic signal at the end of the exit ramp). Turn left/south onto southbound Business US-12/Huron/Whittaker Road. Lot is first left/east past interchange.
+
+From Business US-12/Huron/Whittaker Road in Ypsilanti, lot is first left/east past the I-04 interchange.",Yes,2019,39,25,Yes,Paved,81,"1125 S Huron St
+Ypsilanti, Mi 48197",7,7
+-84.419597903,46.3745096,504,17,1464803,40.378,217001,CL,P,Sault Ste. Marie - South,I-75,M-28,386,NW,"From northbound I-75 take exit 386/M-28.  Turn left/west onto M-28.  Cross overpass.  Lot is 0.1 miles beyond interchange on right/north.  
+From southbound I-75 take exit 386/M-28.  Turn right/west onto M-28.  Lot is 0.1 miles west of off-ramp on right/north.
+
+From eastbound M-28 lot is 0.25 miles west of I-75 interchange south of Sault Ste. Marie (7 miles east of M-221 junction south of Brimley) on left/north.
+
+From westbound M-28 lot is 0.25 miles west of I-75 interchange south of Sault Ste. Marie (3 miles west of M-129 junction) on right/north.",Yes,2019,34,14,Yes,Paved,17,"2480 M-28
+Sault Ste. Marie, Mi 49783",7,6
+-89.1774382249999,46.263066225,506,17,1476001,53.843,127004,CL,P,Watersmeet,US-2,US-45,,NE,"From eastbound US-2 lot is first left/north after intersection with US-45.
+
+From westbound US-2 lot is on right/north before intersection with US-45
+
+From northbound US-45 lot is first right/east after intersection with US-2.
+
+From southbound US-45 lot is on left/east before intersection with US-2.
+
+Lot is shared with Nordine's Foodland (Nordine's Plaza).",Yes,2019,21,4,Yes,Paved,27,,8,8
+-90.0105401609999,46.4828662790001,508,17,1476606,1.438,127001,CL,P,Bessemer/Ramsay,US-2,Ramsay Road,,SW,"From westbound US-2 turn left/south onto Ramsay Road west of Wakefield.  Lot is first right/west south of intersection.
+
+From eastbound US-2 turn right/south onto Ramsay Road east of Bessemer.  Lot is first right/west south of intersection.",Yes,2019,15,0,Near,Gravel,27,"Ramsay Rd
+Bessemer, Mi 49911",4,4
+-89.95266352,46.4777044370001,509,17,1478201,0.058,127002,CL,P,Wakefield,US-2,Eddy Park Drive,,NE,"From westbound US-2 lot is located on right/north between Lake Shore Drive and Eddy Park Drive on west side of Wakefield.
+
+From eastbound US-2 lot is first left/north past Eddy Park Drive on west side of Wakefield.",No,2019,40,0,Yes,Gravel,27,"104 Lake Shore Dr
+Wakefield, Mi 49968",4,4
+-83.928575602,42.99966692,510,17,1494001,2.619,625002,CL,P,Lennon,M-13,M-21,,NE,,Yes,2019,14,4,No,Paved,25,"Roadside Park, W Corunna Rd, Lennon, MI 48849",6,6
+-83.77344604,43.1774222610001,511,17,1494503,7.941,625001,CL,P,Clio/Montrose,I-75,M-57,131,SW,"From northbound I-75 take exit 131 near Clio. Turn left/west onto M-57. Lot is first left/south near the Big Boy Restaurant.
+
+From southbound I-75 take exit 131 near Clio. Turn right/west onto M-57. Lot is first left/south near the Big Boy Restaurant.
+
+From eastbound M-57, lot is first right/south past Lindon Road (about 6 miles east of Montrose).
+
+From westbound M-57, lot is first left/south past Wendy's (about 1.5 miles west of Clio).",Yes,2019,50,33,Near,Paved,25,"4551 W Vienna Rd, Clip, MI 48420",2,2
+-83.552977953,43.01188517,512,17,1495003,6.65,625009,CL,P,Davison - Meijer,I-69,Lapeer Road,143,SE,,Yes,2015,50,,Yes,Paved,25,"8089 Lapeer Road, 
+Davison, MI 48423",,
+-83.596995635,42.8752457840001,513,17,1497102,0.162,625008,CL,P,Dixie South,I-75,Dixie Highway,106,SE,From southbound I-75 exit to Dixie Highway. Turn north at first turn around. Proceed north 1/2 mile. Turn south at first turn around. Lot is on the east side.,Yes,2019,44,10,Yes,Paved,25,"10482 Saginaw Rd (aka Dixie Hwy.), Grand Blanc, MI 48439 ",7,7
+-83.8063093969999,42.9666756010001,515,17,1519805,6.435,625007,CL,P,Swartz Creek,I-69,Miller Rd,129,NE,"Eastbound I-69:  Exit #129, Turn Right (NE) on Miller Rd.  Lot is first right off Miller Rd
+
+Westbound I-69:  Exit #129, Continue straight across Miller Rd.  Lot is at the end of the off ramp.",Yes,2019,42,39,Yes,Paved,25,6393 Miller Rd,7,7
+-86.3935250869999,43.689208524,516,17,1548806,1.248,564002,CL,P,Hart,US-31,US-31BR/Polk Road,149,NW,"From northbound US-31 take Business US-31/Polk Road exit near Hart.  Turn left/west onto Polk Road.  Lot is first right/north past overpass inside interchange.
+
+From southbound US-31 take Business US-31/Polk Road exit near Hart.  Turn left/east onto Polk Road.  Lot is first left/north inside interchange.",Yes,2019,25,8,Yes,Paved,64,"W Polk Rd
+Hart, MI 49420",6,6
+-88.077361273,46.0872877300001,517,17,1551604,1.938,122002,CL,P,Sagola,M-95,M-69 (N Junction),,SW,"From westbound M-69/northbound M-95 turn left/west onto M-69 in Sagola.  Lot is first left/south past old railroad tracks.
+
+From southbound M-95 turn right/west onto M-69 in Sagola.  Lot is first left/south past old railroad tracks.
+
+From eastbound M-69 lot is located on right/south side of road just before old railroad tracks and M-95 intersection in Sagola.",Yes,2019,19,0,Near,Paved,22,"M-69
+Sagola, MI 49881",6,6
+-88.061389284,45.86372692,518,17,1551804,0.034,122001,CL,P,Iron Mountain,US-2,M-95,,NE,"From westbound US-2/northbound US-141 turn right/north onto M-95 north of Iron Mountain.  Lot is first right/east north of US-2/US-141.
+
+From eastbound US-2/southbound US-141 turn left/north onto M-95 north of Iron Mountain.  Lot is first right/east north of US-2/US-141.
+
+From southbound M-95 lot is last left/east before US-2/US-141 junction south of Merriman.",Yes,2019,24,7,Near,Paved,22,"M-95
+Iron Mountain, Mi 49801",5,5
+-88.056866865,46.004853724,519,17,1556601,0.213,122003,CL,P,Randville,M-95,M-69 (S Junction),,SE,"From westbound M-69 lot is last left/south before junction with M-95 west of Felch.
+
+From northbound M-95 turn right/east onto M-69 1 mile north of Randville.  Lot is first right/south.
+
+From eastbound M-69/southbound M-95 turn left/east onto M-69 6 miles south of Sagola.  Lot is first right/south past junction.",Yes,2019,8,1,Yes,Paved,22,"M-69
+Iron Mountain, Mi 49801",8,7
+-87.7435185429999,45.966078044,520,17,1556601,16.484,122005,CL,P,Foster City,M-69,County Road 569,,NW,"Northbound M-69: Lot is first right/north after junction with CR-569 at Foster City.
+
+Southboud M-69: Lot is first left/north before junction with CR-569 at Foster City.",Yes,2019,20,0,Yes,Paved,22,"M-69
+Foster City, Mi 49834",7,6
+-87.919940577,46.4966299530001,521,17,1560510,19.757,152005,CL,P,Koski Corners,M-95,US-41,,SW,"From northbound M-95 lot is on left/west before intersection with US-41.
+
+From southbound M-95 lot is on right/west after intersection with US-41.
+
+From eastbound US-41 turn right onto M-95. Lot is on right/west.
+
+From westbound US-41 turn left onto M-95. Lot is on right/west.",No,2019,11,4,Near,Paved,52,"95 Michigan, Champion, MI 49814",8,8
+-87.415105281,46.275939189,522,17,1560808,14.75,152004,CL,P,Gwinn,M-35,M-553,,S,"From westbound M-35, turn left (south) into lot 25 ft. before (east of) intersection of M-553.
+From eastbound M-35, turn right (south) into lot 25 ft. after (east of) intersection of M-553.
+From southbound M-553, turn left (east) onto M-35, then immediately right (south) into lot.",Yes,2019,20,5,Near,Paved,52,"257 M-35, Gwinn, MI 49841",6,6
+-87.425240227,46.465161638,523,17,1561008,13.327,152007,CL,P,Crossroads,M-553,CR480,,U,,No,2015,21,,Near,Paved,52,"995 M-533, Gwinn, MI 49841",,
+-87.2168643909999,46.3477841380001,524,17,1562007,0.067,152002,CL,P,Skandia,US-41,M-94,,NE,"From northbound US-41 turn right/east onto M-94 north of Kiva.  Lot is 300 feet beyond intersection on left/north side of road.
+
+From southbound US-41 turn left/east onto M-94 south of Skandia.  Lot is 300 feet beyond intersection on left/north side of road.
+
+From westbound M-94 lot is located on right/north side of road 300 feet before intersection with US-41 west of Sundell.",No,2019,20,2,Yes,Paved,52,"M-94
+Skandia, Mi 49885",6,5
+-87.6928803869999,46.4946794040001,525,17,1562009,39.005,152001,CL,P,Ishpeming,US-41,Cooper Lake Road,,NE,"From northbound US-41/westbound M-28 lot is last right/north (about 1000 feet) before Cooper Lake Road on west side of Ishpeming.
+
+From southbound US-41/eastbound M-28 lot is first left/north (about 1000 feet) past Cooper Lake Road on west side of Ishpeming.",Yes,2019,39,14,Yes,Paved,52,"199 M-28 Ishpeming, MI 49849",6,5
+-87.3508936489999,46.4862439790001,526,17,1562408,1.695,152003,CL,P,Harvey,US-41/M-28,Cherry Creek Rd,,SW,Lot is in the front of the Jack's IGA grocery store parking lot in the south west corner of the US-41/M-28/Cherry Creek Road intersection in Harvey.  Turn on Cherry Creek Road and drive west approximately 100 ft to Jack's IGA entrance on the left.,Yes,2019,22,10,Near,Paved,52,"153 Cherry Creek Rd, Marquette, MI 49855",7,7
+-83.157445407,42.3275628660001,528,17,1577103,1.826,982004,CL,P,Dearborn,I-94,US-12 (Michigan Ave),210,NE,"From eastbound I-94 take exit 210 and keep left, then turn right/east onto US-12. Lot is first left/north.
+
+From westbound I-94 take exit 210A and turn left/east onto US-12. Lot is first left/north.
+
+From eastbound US-12 lot is on left/north after westbound I-94 on-ramp.
+
+From westbound US-12 lot is on right/north after intersection with Wyoming Avenue.",Yes,2019,61,18,Yes,Paved,82,"10040 Michigan Ave
+Dearborn, Mi 48126",9,8
+-83.4858260509999,42.3220131670001,529,17,1595510,3.093,982006,CL,P,Canton - Meijer,I-275,Ford Road,25,W,,Yes,2015,50,,Yes,Paved,82,"45001 Ford Road, 
+Canton, MI
+48187",,
+-83.4359137499999,42.4376628680001,531,17,1689610,4.525,982007,CL,P,Northville - Meijer,I-275,Haggerty Road,167,SW,,Yes,2015,50,,Yes,Paved,82,"20401 Haggerty Road, Northville, MI 48169",,
+-83.314964123,44.563028106,532,17,1725704,3.684,401001,CL,P,Greenbush,US-23,,,NA,Two miles south of Greenbush on US-23. Lot is on east side of US-23 on Lake Huron shore (across the street from the Red Rooster Restaurant).,Yes,2019,12,0,Near,Paved,1,"3250 State St
+Greenbush, Mi 48738",8,8
+-83.1681852519999,43.010004365,533,17,1846708,0.162,644011,CL,P,Attica,I-69,Lake Pleasant Road/Campbell Road,163,NW,"From eastbound I-69 take exit 163 south of Attica.  Turn left/north onto Lake Pleasant Road.  Turn left/west onto Campbell Road (first left/west north of interchange).  Lot is second left/south about 0.25 miles off Lake Pleasant Road.
+
+From westbound I-69 take exit 163 south of Attica.  Turn right/north onto Lake Pleasant Road.  Turn left/west onto Campbell Road (first left/west north of interchange).  Lot is second left/south about 0.25 miles off Lake Pleasant Road.",Yes,2019,15,8,No,Paved,44,"4401 Campbell Rd, Attica, MI 48412",6,6
+-88.533512867,46.5476717560001,534,17,1861610,0.013,107003,CL,P,Covington,M-28,US-141 (S Junction),,NA,"From southbound US-141/westbound M-28 turn right/north onto VFW Road (last right/north before US-141/ M-28 junction near Covington).  Lot is first right/east.
+
+From northbound US-141 turn right/east onto US-141/M-28 north of Covington then turn left/north onto VFW Road (first left/north).  Lot is first right/east.
+
+From eastbound M-28 turn left/north onto VFW Road (first left/north past US-141 junction near Covington).  Lot is first right/east.",No,2019,10,0,No,Gravel,7,"Old Michigan 28 
+Covington, Mi 49919",5,5
+-84.434342823,42.6799632020001,535,17,1903507,0.078,833006,CL,P,Okemos,I-96,Okemos Road,110,NW,"From eastbound I-96, take exit 110 south of Okemos. Turn left/north onto Okemos Road. Turn left/west onto Woodlake Drive (first left/west north of interchange). Lot is second left/south.
+
+From westbound I-96, take exit 110 south of Okemos. Turn right/north onto Okemos Road. Turn left/west onto Woodlake Drive (first left/west north of interchange). Lot is second left/south.
+
+",Yes,2019,104,33,Near,Paved,33,"2335 Woodlake Dr, Okemos MI 48864",6,6
+-83.7468748049999,44.652770122,536,17,3010827,10.895,401002,CL,P,Curran,M-65,M-72,,SE,"From northbound M-65, turn right (east) into lot just south of intersection of M-72.
+
+From southbound M-65, turn left (east) into lot just south of intersection of M-72.
+
+From westbound M-72 turn left (south) onto M-65 then left (east) into lot. Lot entrance is approximately 250 feet south of intersection of M-65 and M-72.",Yes,2019,10,2,No,Paved,1,"M-65
+Curran, Mi 48728",8,8
+-86.366675793,42.1501840010001,537,17,3111494,3.03,711006,CL,P,Coloma,I-196,Red Arrow Highway,1,SE,"From SB I-196/US-31 off ramp, turn left on Red Arrow Hwy.  Lot is first drive on the right past the on ramp.
+
+From NB I-196/US-31 off ramp, turn right on Red Arrow Hwy.  Lot is first drive on the right.",Yes,2019,16,11,No,Paved,11,"3918 Red Arrow Hwy
+Benton Harbor, Mi 49022",8,8
+-83.730455477,42.80448002,538,17,3252007,1.429,625003,CL,P,Fenton,US-23,Silver Lake Road,79,SW,"From northbound US-23 take exit 79 near Fenton.  Turn left/west onto Silver Lake Road.  Lot is first left/south past overpass inside interchange.
+
+From southbound US-23 take exit 79 near Fenton.  Turn right/east onto Silver Lake Road.  Lot is first right/south inside interchange.",Yes,2019,68,39,Yes,Paved,25,"3116 W Silver Lake Rd, Fenton, MI 48430",7,7
+-88.451917298,47.2374152830001,539,17,3310007,4.102,131004,CL,P,Calumet,US-41,Lake Linden Avenue,,SE,"From northbound US-41 turn right/east onto Lake Linden Avenue in Calumet.  Lot lies on right/south next to Chamber of Commerce.
+
+From southbound US-41 turn left/east onto Lake Linden Avenue in Calumet.  Lot lies on right/south next to Chamber of Commerce.",Yes,2019,25,5,Yes,Paved,31,"1400 Lake Linden Ave, Calumet, Mi 49913",8,8
+-84.885200997,42.860606601,540,17,3341243,4.128,534004,CL,P,Portland #2 (NE),I-96,Grand River Avenue,77,NE,"From westbound I-96 take exit 77/ Business I-96/Grand River Avenue at Portland.  Turn left/south onto Grand River Avenue.  Lot is first left/east past westbound I-96 on-ramp.
+
+From eastbound I-96 take exit 77/ Business I-96/Grand River Avenue at Portland .  Turn left/north onto Grand River Avenue.  Lot is first right/east past freeway overpass.
+
+From eastbound Business I-96/Grand River Avenue in Portland lot is first left/east past westbound I-96 on-ramp.",Yes,2019,23,10,Yes,Paved,34,"1698 E Grand River 
+Portland, Mi 48875",5,6
+-84.885151622,42.8605442260001,541,17,3341243,4.133,534003,CL,P,Portland #1 (NW),I-96,Grand River Avenue,77,NW,"From westbound I-96 take exit 77/ Business I-96/Grand River Avenue at Portland.  Turn left/south onto Grand River Avenue.  Lot is first right/west past westbound I-96 on-ramp.
+
+From eastbound I-96 take exit 77/ Business I-96/Grand River Avenue at Portland .  Turn left/north onto Grand River Avenue.  Lot is first left/west past freeway overpass.
+
+From eastbound Business I-96/Grand River Avenue in Portland lot is first right/west past westbound I-96 on-ramp.",Yes,2019,65,21,Yes,Paved,34,"1698 E Grand River Ave
+Portland, Mi 48875",7,7
+-88.339317314,46.057077216,542,17,3360044,2.98,136001,CL,P,Crystal Falls,US-2/US-141,Alpha Road,,NW,"From westbound US-2/northbound US-141 lot is first left/west past Alpha Road about 6 miles north of Wisconsin border (south of Crystal Falls).
+
+From eastbound US-2/southbound US-141 lot is last right/west before Alpha Road about 4 miles south of Crystal Falls.",Yes,2019,8,1,No,Paved,36,"1238-1298 U.S. 141
+Crystal Falls, Mi 49920",7,5
+-84.359948453,42.256926606,543,17,3381123,2.175,838006,CL,P,Jackson - Meijer,I-127,E. Michigan,39,SW,,Yes,2015,50,,Yes,Paved,38,"3271 E. Michigan Ave.
+Jackson, MI
+49202",,
+-84.3103265129999,42.2771636210001,544,17,3381751,2.902,838007,CL,P,Jackson - Sargent Rd,I-94,Sargent Rd,145,SW,"5591 Ann Arbor Road
+Jackson, MI 49201",Yes,2019,54,18,No,Paved,38,"5591 Ann Arbor Rd
+Jackson, MI
+49201",8,8
+-85.657361952,42.3762097910001,545,17,3390103,5.982,739002,CL,P,Alamo/Cooper Center,US-131,"""D"" Avenue",44,SW,"From northbound US-131 take exit 44 north of Kalamazoo.  Turn left/west onto D Avenue.  Lot is first left/south past overpass inside interchange.
+
+From southbound US-131 take exit 44 south of Plainwell.  Turn left/east onto D Avenue.  Lot is first right/south inside interchange",Yes,2019,93,43,Yes,Paved,39,"5400 W. D Ave
+Oshtemo, Mi 49009",3,3
+-85.630458142,43.088040117,546,17,3410027,4.124,541009,CL,P,Grand Rapids/Belmont,US-131,Post Road,95,NE,"From northbound US-131 take exit 95 north of Grand Rapids.  Turn left/west onto Post Road.  Lot is first right/north inside interchange.
+
+From southbound US-131 take exit 95 north of Grand Rapids.  Turn left/east onto Post Road.  Lot is first left/north past freeway overpass inside interchange.",Yes,2019,35,10,No,Paved,41,"1380 Post Dr NE
+Belmont, Mi 49306",8,8
+-85.371006623,42.882530246,547,17,3416247,0.208,541006,CL,P,Lowell,I-96,M-50/Alden Nash,52,NW,"From westbound I-96 take exit 52/ M-50/Alden Nash Road south of Lowell.  Turn right/north onto Alden Nash Road.  Lot is first left/west past farmhouse.
+
+From eastbound I-96 take exit 52/ M-50/Alden Nash Road south of Lowell.  Turn left/north onto Alden Nash Road.  Lot is first left/west past farmhouse north of interchange.
+
+From westbound (northbound) M-50/ Alden Nash Road (west of Lake Odessa) lot is first left/west past farmhouse north of I-96 interchange.",Yes,2019,289,139,Yes,Paved,41,"4586 Alden Nash Ave SE
+Lowell, Mi 49331",7,7
+-85.523986226,43.686228354,548,17,3540813,2.791,554002,CL,P,Big Rapids,US-131,M-20/Perry Street,139,SW,"From northbound US-131 take exit 139 near Big Rapids.  Turn left/west onto M-20.  Lot is first left/south inside interchange.
+
+From southbound US-131 take exit 139 near Big Rapids.  Turn left/east onto M-20.  Lot is first right/south inside interchange.
+
+From eastbound M-20 lot is first right/south past southbound US-131 on-ramp inside US-131/M-20 interchange 1 mile west of Big Rapids.
+
+From westbound M-20/southbound Business US-131 lot is first left/south across freeway overpass inside US-131/M-20 interchange 1 mile west of Big Rapids.",Yes,2019,36,10,Yes,Paved,54,"22200 Perry Ave
+Big Rapids Twp, MI 49307",5,5
+-84.3678018479999,43.6861376250001,549,17,3560069,0.398,656004,CL,P,Sanford - Northeast,US-10,M-30,,NW,"From westbound US-10, take M-30 exit near Sanford. Turn right/north onto M-30. Lot is first left/west.
+
+From eastbound US-10, take M-30 exit near Sanford. Turn right/north onto M-30. Lot is first left/west past interchange.
+
+From southbound M-30, lot is last right/west before US-10 interchange about 10.5 miles south of Edenville.",Yes,2019,25,13,Near,Paved,56,"2569 N Meridian Rd
+Sanford, Mi 48657",6,6
+-84.368026908,43.6869615,550,17,3560069,0.456,656001,CL,P,Sanford - Northwest,US-10,West River Road,,NE,"From westbound US-10, take West River Road exit west of Sanford. Turn right/north onto West River Road. Lot is first right/east.
+
+From eastbound US-10, take West River Road exit west of Sanford. Turn left/north onto West River Road. Lot is first right/east past westbound US-10 on-ramp.",Yes,2019,18,1,No,Paved,56,"N W River Rd
+Sanford, Mi 48657",8,8
+-86.039466297,43.464483645,551,17,3610270,2.659,561007,CL,P,Fremont,M-120,M-82,,W,"From northbound M-120 lot is on left/west, 0.2 miles south of M-82 and just south of Grove Drive.
+
+From southbound M-120 lot is on right/west, 0.2 miles south of M-82 and just south of Grove Drive.
+
+From eastbound M-82 turn right/south onto M-120. Lot is down 0.2 miles on right/south.
+
+From westbound M-82 turn left/south onto M-120. Lot is down 0.2 miles on right/south.",Yes,2019,31,4,Near,Paved,61,"4890 S Maple Island Rd
+Fremont, Mi 49412",7,7
+-86.039241631,43.424580237,552,17,3610271,8.993,561006,CL,P,Maple Island,M-120,Maple Island Rd,,SW,"From northbound M-120 turn right/southeast onto Maple Island Road. Lot is on right/west, south of Brunswick.
+
+From southbound M-120 turn left/southeast onto Maple Island Road. Lot is on right/west, south of Brunswick.",Yes,2019,33,4,No,Paved,61,"9397 N Maple Island Rd
+Fremont, Mi 49412",6,6
+-86.387435667,43.5584785560001,553,17,3640072,5.633,564001,CL,P,New Era,US-31,M-20,140,NE,"From northbound US-31 take M-20 exit near New Era.  Turn right/east onto M-20.  Lot is first left/north.
+
+From southbound US-31 take M-20 exit near New Era.  Turn left/east onto M-20.  Lot is first left/north past northbound US-31 on-ramp.
+
+From westbound M-20 lot is last right/north before northbound US-31 on-ramp at interchange west of New Era.",Yes,2019,21,6,No,Paved,64,"W Stony Lake Rd
+New Era, Mi 49446",5,4
+-89.324952518,46.8676513460001,554,17,3660738,0.006,166002,CL,P,Ontonagon,M-64,River Rd,,NA,"The lot is located on River Road just north of M 64.  River Road intersects M 64 about .5 mile west of US 45. 
+",Yes,2019,24,2,Yes,Paved,66,"115 River Rd, Ontonagon, MI 49953",8,9
+-85.146032701,44.030229825,555,17,3670012,16.02,367003,CL,P,Gormer,M-115,M-66,,SE,"From northbound M-115 turn left/southwest onto M-66 which is 17 miles north of US-10 interchange northwest of Clare.  From the M-66/M-115 intersection, turn left/east onto 15 Mile Rd.  Lot is at the end of the drive of 15 Mile Rd.
+
+From southbound M-115 turn right/southwest onto M-66 about 18 miles south of US-131 interchange south of Cadillac.  Turn left/east onto 15 Mile Rd.  Lot is at the end of the drive of 15 Mile Rd.
+
+From northbound M-66 turn right/east onto 15 Mile Road just before M-115 intersection 9 miles north of US-10 intersection north of Barryton.  Lot is on right/south east of Township Hall.
+
+From southbound M-66 turn left/east onto 15 Mile Road (first road south of M-115) 5 miles south of Marion.  Lot is on right/south east of Township Hall.",Yes,2019,20,2,Yes,Paved,67,"2968 15 Mile Rd, Marion, MI 49665",6,6
+-86.058918809,42.8042807100001,556,17,3700141,0.199,570002,CL,P,Holland/Zeeland,I-196BL,112th Street,,NW,"From westbound Business I-196 in Zeeland turn right/north onto 112th Avenue (about 4 miles west of I-196 exit 55).  Take first left/west onto one-way access road just off Business I-196.  Lot is first left/south on access road.
+
+From eastbound Business I-196 turn left/north onto 112th Avenue about 1 mile east of US-31 east of Holland.  Take first left/west onto one-way access road just off Business I-196.  Lot is first left/south on access road.",Yes,2019,30,9,Near,Paved,70,"11225 Chicago Dr
+Holland, Mi 49424",5,5
+-85.9943175449999,42.8100017780001,557,17,3700692,0.042,570006,CL,P,Zeeland,I-196BL/Chicago Drive,Homestead Drive,0,SE,"From westbound I-196 take exit 55 onto Business I-196/Chicago Drive to Zeeland and Holland (ramp becomes Business I-196).  Turn left/south onto Homestead Drive about 1 mile after leaving I-196.  Lot is first left/east.
+
+From eastbound Business I-196/Chicago Drive in Zeeland Turn right/south onto Homestead Drive about 5 miles east of US-31.  Lot is first left/east.",Yes,2019,49,22,Yes,Paved,70,"8570 Homestead Dr
+Zeeland, Mi 49464",6,6
+-83.699991478,45.340184197,558,17,3710801,0.015,471001,CL,P,Rogers City,US-23,M-65,,NA,"From northbound US-23 lot is right/east opposite M-65 at junction 29 miles north of Alpena.
+
+From southbound US-23 lot is left/east opposite M-65 at junction 8 miles south of Rogers City.
+
+From northbound M-65 lot is located directly across US-23 at junction where M-65 ends at US-23 5 miles north of Posen.",Yes,2019,10,1,Near,Paved,71,"U.S. 23
+Rogers City, Mi 49779",7,7
+-83.767898507,43.250226878,560,17,3730165,0.749,673007,CL,P,Birch Run - Meijer,I-75,Birch Run Road,136,NE,,Yes,2015,50,,Yes,Paved,73,"9515 Birch Run Road, Birch Run, MI 48415",,
+-83.9994354469999,42.9257511390001,561,17,3780583,0.018,676004,CL,P,Durand #2,I-69,M-71,118,SE,"From eastbound I-69 take exit 118 near Durand. Turn right/south onto M-71. Lot is on left/east, just south of I-69 interchange.
+
+From westbound I-69 take exit 118 near Durand. Turn left/south onto M-71. Lot is on left/east, just south of I-69 interchange.
+
+From eastbound M-71 lot is on left/east, just south of I-69 interchange.",Yes,2019,40,3,No,Paved,76,8301 Lansing Rd,8,8
+-84.0001270509999,42.925141319,562,17,3780745,13.031,676003,CL,P,Durand,I-69,M-71,118,SW,"From eastbound I-69 take exit 118 near Durand. Turn right/south onto M-71. Turn right/west onto Lansing Road (first road south of interchange). Lot is first right/north.
+
+From westbound I-69 take exit 118 near Durand. Turn left/south onto M-71. Turn right/west onto Lansing Road (first road south of interchange). Lot is first right/north.
+
+From eastbound M-71 turn left/east onto Lansing Road (first road south of I-69 interchange north of Durand). Lot is first left/north.",Yes,2019,29,8,No,Paved,76,8277 Lansing Rd,7,7
+-83.687768584,42.51796018,563,17,4104142,0.094,847007,CL,P,Kensington Metropark,I-96,Kensington Road,151,SE,"From eastbound I-96, take exit 151. Turn left/south onto Kensington Road. Turn left/east onto Grand River Avenue (first road south of interchange). Lot is on right/south side of road 500 feet east of Kensington Road.
+
+From westbound I-96, take exit 151. Turn right/south onto Kensington Road. Turn left/east onto Grand River Avenue (first road south of interchange). Lot is on left/south side of road 500 feet east of Kensington Road.",Yes,2019,44,17,No,Paved,47,"13116 Grand River Rd
+Brighton, Mi 48116",3,7
+-83.7547259469999,42.4678260970001,565,17,4105311,1.805,847004,CL,P,Silver Lake,US-23,Silver Lake Road,55,NE,"From southbound US-23, take exit 55 south of Brighton. Turn left/east onto Silver Lake Road. Turn left/north onto Fieldcrest Road/Old US-23 (first left/north past northbound US-23 on-ramp). Lot is first left/west.
+
+From northbound US-23, take exit 55 north of Whitmore Lake. Turn right/east onto Silver Lake Road. Turn left/north onto Fieldcrest Road/Old US-23 (first road past interchange). Lot is first left/west.",Yes,2019,50,19,Near,Paved,47,"Fieldcrest Dr
+Brighton, Mi 48116",8,8
+-83.756915684,42.5031595040001,566,17,4105311,4.265,847002,CL,P,Brighton - Southeast #1 (SE),US-23,Lee Road,58,SE,"From southbound US-23, take exit 58 (1 mile south of I-96 exit 148). Turn left/west onto Lee Road. Turn right/south onto East Service Road (first road east of freeway). Lot is first right/west.
+
+From northbound US-23, take exit 58. Turn left/east onto Lee Road. Turn right/south onto East Service Road (first right/south). Lot is first right/west.",Yes,2019,144,91,Yes,Paved,47,"6630 Fieldcrest Dr
+Brighton, Mi 48116",8,8
+-82.6245451189999,42.8133092470001,567,17,4210005,5.846,977001,CL,P,Adair,I-94,Division/Fred Moore Hwy.,257,NE,"From eastbound I-94 take exit 257.  Turn right/east onto Division Road/Fred Moore Highway.  Lot is first left/north.
+
+From westbound I-94 take exit 257.  Turn left/east onto Division Road/Fred Moore Highway.  Lot is first left/north past eastbound I-94 off-ramp across freeway.",Yes,2019,140,56,Near,Paved,77,"7850 Fred W Moore Hwy
+Columbus, Mi 48063",7,7
+-83.263453177,42.4869752430001,568,17,4400088,1.444,963005,CL,P,Southfield,I-696,Lahser Road,10,NW,"From eastbound I-696 take exit 8 onto southbound M-10/Lodge (see below).
+
+From westbound I-696 take exit 11 and continue westbound on 11 Mile Road. Lot is first left/south past Lahser Road 1 mile west of Evergreen.
+
+From northbound US-24 enter southbound M-10/Lodge at I-696/M-10 interchange 3 miles north of M-102/8 Mile Road (see below).
+
+From southbound US-24 enter southbound M-10/Lodge at I-696/M-10 interchange about 8.5 miles south of Business US-24/Square Lake Road in Pontiac (see below).
+
+From northbound M-10/Lodge take Lahser Road exit in Southfield. Turn right/north onto Lahser Road. Turn left/west onto 11 Mile Road (first light). Lot is first left/south. 
+
+From southbound M-10/Lodge take Lahser Road exit (first exit south of I-696/US-24/M-10 interchange). Turn left/north onto Lahser Road. Turn left/west onto 11 Mile Road (first light past freeway). Lot is first left/south.",Yes,2019,194,58,Yes,Paved,63,"26937 Lahser Rd, Southfield, MI 48033",6,6
+-83.2958700629999,42.869044063,569,17,4410182,8.674,963003,CL,P,Oakwood,M-24,Oakwood Road,,NW,"From northbound M-24 turn left/west onto Oakwood Road about 4 miles north of Oxford.  Lot is first left/south.
+
+From southbound M-24 turn right/west onto Oakwood Road about 12 miles south of I-69 interchange south of Lapeer.  Lot is first left/south.",Yes,2019,24,10,No,Paved,63,"417 W Oakwood Rd, Oxford Charter Township, MI 48371",2,6
+-83.308212731,42.7030265060001,570,17,4414696,0.066,963002,CL,P,Auburn Hills - West,I-75,Baldwin Road,84,SW,"From northbound I-75 take exit 84 to southbound Baldwin Road (second ramp) near Auburn Hills.  Turn right/south onto Baldwin Road.  Turn right/west onto Lake Village Blvd. (first right/east past southbound I-75 off-ramp south of overpass).  Lot is first left/south.
+
+From southbound I-75 take exit 84 to southbound Baldwin Road (first ramp) near Auburn Hills.  Turn right/south onto Baldwin Road.  Turn right/west onto Lake Village Blvd. (first right/west).  Lot is first left/south.",Yes,2019,44,8,Yes,Paved,63,"178 Lake Village Blvd
+Auburn Hills, Mi 48326",4,4
+-83.208499026,42.604967027,571,17,4415861,4.679,963011,CL,P,Bloomfield - Adams Road,I-75,Adams Rd,74,NW,"On northbound I-75, take Exit 74.  Turn right at Adams Road.  Lot is on the left.",Yes,2019,42,15,Yes,Paved,63,"6175 N Adams Rd
+Bloomfield Hills, Mi 48304",10,10
+-83.287777326,42.70755832,572,17,4416311,0.99,963014,CL,P,Auburn Hills - Meijer,I-75,Brown Rd.,84,E,,Yes,2015,50,,Yes,Paved,63,"800 Brown Rd, 
+Auburn Hills, 
+MI 48326",,
+-83.5127621089999,42.494760313,573,17,4462980,0.183,963013,CL,P,Wixom,I-96,Beck Rd,160,NE,"From eastbound I-96, take Exit 160 toward Novi.  Keep left at fork, follow the sign for Beck Rd. north and merge onto N. Beck Rd.  Turn right at W. 12 Mile Rd.  Lot is on the right.
+
+From westbound I-96, take Exit 160 toward Novi.  Keep right at the fork, follow the sign for Beck Rd. north/Wixom and merge onto North Beck Rd.  Turn right at W. 12 Mile Rd.  Lot is on the right.",Yes,2019,174,48,Yes,Paved,63,"47735 W 12 Mile Rd
+Wixom, Mi 48393",9,8
+-83.281539588,42.384806342,575,17,4705231,8.64,982001,CL,P,Redford Township,I-96,Fenton Street,178,SW,"From eastbound I-96/Jeffries Freeway take exit 178/Schoolcraft Road in Redford Township.  Turn right/south into lot at bus stop near Fenton Street, about 0.8 miles past Beech-Daly Road.
+
+From westbound I-96/Jeffries Freeway take exit 178/Schoolcraft Road 1 mile west of US-24/Telegraph Road.  Take westbound Schoolcraft Road/service drive past Beech-Daly Road.  Turn left/south at first (westbound to eastbound) crossover that allows left turns.  Turn left/east onto eastbound Schoolcraft Road/service drive.  Turn right/south into lot at bus stop near Fenton Street, about 0.8 miles past Beech-Daly Road.",No,2019,142,38,Yes,Paved,82,"24573 Schoolcraft Ave, Redford Charter Township, MI 48239",7,7
+-83.081564295,42.3238016290001,576,17,4718958,0.034,982005,CL,P,Detroit,I-75,Vernor Hwy,47,SE,,Yes,2019,64,10,Yes,Paved,82,"1605 21st St
+Detroit, MI 48216",9,8
+-85.376049264,42.2790638160001,830,17,15704,1.814,739006,CL,P,Galesburg,I-94,40th Street,88,SE,"From WB I-94 take exit 88 then turn left/south. Lot will be on the right/west.
+
+From EB I-94 take exit 88 then turn right/south. Lot will be on the right/west.
+
+Located just east of Target Distribution Center.",Yes,2019,44,4,No,Paved,39,"Charleston Township, MI 49053",10,10
+-83.869386988,41.8349656610001,831,17,947102,0.811,846003,CL,P,Blissfield/Riga,US-223,US-223,,SW,,No,2019,41,,Yes,Paved,46,US-223 east of Riga Hwy,,
+-83.774677,42.428974,833,17,942008,0.811,881009,CL,P,Whitmore Lake North,US-23,8 Mile Rd,53,SW,"Exit 53 for 8 Mile Road off US-23, SW quadrant of intersection.",No,2019,10,0,Yes,Gravel,81,"US-23/8 MIle Road
+SW quadrant
+Whitmore Lake, MI 48189",10,10
+-86.1543344,43.1393094160001,834,17,859601,0.037,561008,CL,P,Fruitport,I-96,Farr Rd,4,SW,"Within the I-96 at Airline Hwy interchange, in the southeast corner of Farr Road and Airline Hwy.",No,2019,65,,No,Paved,61,"3367 Farr Rd, Fruitport Township,MI",10,10
+-85.6781626059999,42.8424285070001,835,17,410203,5.22,541017,CL,P,Grand Rapids/Cutlerville,US-131/68th Street,68th St,76,NE,"Exit 76-77, 68th St. M-6. ",Yes,2019,10,2,Near,Paved,41,"US-131 at 68th Street
+Cutlerville, MI",10,10
+-88.673987897,46.0958407,837,17,1277603,17.54,136003,CL,P,Iron River West,US-2,,,N,,Yes,2019,24,0,Yes,Paved,36,"4000 US-2
+Iron River, MI 49935",6,6
+-87.61493921,46.5063110390001,838,17,1563103,0.339,152008,CL,P,Negaunee,US-41/M-28,,,U,From US-41 take Teal Lake Rd. south 100ft to Water St. Go west on Water St. 0.1 miles to lot on northern side of Water St. ,Yes,2019,14,1,Near,Paved,52,"W. Water Street
+Negaunee, MI 49866",10,10
