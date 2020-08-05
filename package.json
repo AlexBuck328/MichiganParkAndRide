@@ -1,0 +1,19 @@
+{
+  "name": "michiganparkandride",
+  "version": "1.0.0",
+  "description": "Michigan Department of Transportation Carpool Lot Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexBuck328/MichiganParkAndRide.git"
+  },
+  "author": "Alex Buck",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexBuck328/MichiganParkAndRide/issues"
+  },
+  "homepage": "https://github.com/AlexBuck328/MichiganParkAndRide#readme"
+}
