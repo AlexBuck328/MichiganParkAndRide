@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexBuck328/MichiganParkAndRide/issues"
   },
-  "homepage": "https://github.com/AlexBuck328/MichiganParkAndRide#readme"
+  "homepage": "https://github.com/AlexBuck328/MichiganParkAndRide#readme",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
