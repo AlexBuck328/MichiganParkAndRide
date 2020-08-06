@@ -7,6 +7,8 @@
 
     <title>Michigan Carpool Lots</title>
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" />
+    <link rel="stylesheet" href="libs/Leaflet.markercluster/MarkerCluster.Default.css" />
+    <link rel="stylesheet" href="libs/Leaflet.markercluster/MarkerCluster.css" />
     <style>
         body {
             font-family: sans-serif;
@@ -20,6 +22,37 @@
             top: 0;
             bottom: 0;
         }
+
+        #ui {
+            position: absolute;
+            z-index: 1000;
+            /* place above map */
+            bottom: 18px;
+            right: 18px;
+            padding: 6px 12px;
+            background: rgba(256, 256, 256, .9);
+        }
+
+        #ui ul {
+            list-style-type: none;
+            padding: 0;
+        }
+
+        #ui li {
+            margin-bottom: 6px;
+        }
+
+        #ui a {
+            text-decoration: none;
+        }
+
+        #ui a:hover {
+            font-weight: bold;
+        }
+
+        .highlight {
+            font-weight: bold;
+        }
     </style>
 </head>
 
@@ -27,8 +60,16 @@
 
     <div id="map"></div>
 
+    <div id="ui">
+        <h3>Michigan DOT Regions</h3>
+        <h4>Carpool Lots</h4>
+        <ul id="legend-list"></ul>
+    </div>
+
     <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"></script>
     <script src="https://d3js.org/d3-fetch.v1.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script src="libs/Leaflet.markercluster/leaflet.markercluster.js"></script>
     <script>
         // map options
         const options = {
@@ -45,7 +86,7 @@
         }).addTo(map);
 
         // use D3 fetch to request data with async requests
-        const regionsData = d3.json('data/mdot-regions.json');
+        const regionsData = d3.json('data/mdot-region-counts.json');
         const colorsData = d3.json('data/earthcolors.json');
         const carpoolData = d3.json('data/mdot-carpool-lots.json');
 
@@ -64,6 +105,15 @@
             const colors = data[1];
             const carpool = data[2];
 
+            // store a reference to the HTML list
+            const legendList = $('#legend-list');
+
+            // loop through the features and create a new
+            // list item for each feature in the legend
+            for (let i = 1; i <= regions.features.length; i++) {
+                legendList.append('<li class="legend-item"id="Region-' + i + '"><a style="color:' + colors.Earth[7][i -1 ] + '" href="#">Region ' + i + '(<span></span>)</a></li>');
+            }
+
             // create a layerGroup with the geojson data
             const regionsLayerGroup = L.geoJson(regions, {
                 style: function (feature) {
@@ -71,9 +121,71 @@
                     return {
                         color: colors.Earth[7][feature.properties.Code - 1],
                         fillOpacity: .6
-                    }
+                    }    
+                },
+                onEachFeature(feature, layer) {
+                    // select each legend list item span and append the total count of signals
+                    $('#region-' + feature.properties.Code + ' span').append(feature.properties.Count);
+
+                    //when mousing over a polygon layer
+                    layer.on('mouseover', function () {
+                        // provide a visual affordance
+                        this.setStyle({
+                            fillOpacity: .8
+                        });
+
+                        // select the cooresponding list item
+                        // and add the highlight class to make bold
+                        $('#region-' + feature.properties.Code).addClass('highlight');
+                    })
                 }
             }).addTo(map);
+
+            // select all the list items and on mouseover
+            $('.legend-item').on('mouseover', function () {
+                // extract the specific number from the specific item
+                // being moused over
+                var num = this.id.replace('region-', '');
+                // send this number as an argument to the highlightDistrict function
+                highlightRegion(num);
+            });
+
+            function highlightRegion(regionNum) {
+                // loop through the districts polygons
+                regionsLayerGroup.eachLayer(function (layer) {
+                    // if the district id matches the one we're mousing over
+                    if (layer.feature.properties.Code === regionNum) {
+                        // change the layer style
+                        layer.setStyle({
+                            fillOpacity: .8
+                        }).bringToFront();
+                    } else {
+                        // return to original
+                        layer.setStyle({
+                            fillOpacity: .6
+                        });
+                    }
+                });
+            }
+
+            // create new markerClusterGroup
+            const markers = L.markerClusterGroup();
+
+            // loop through all our signals features
+            carpool.features.forEach(function (feature) {
+                // create a new Leaflet marker for each
+                let coords = feature.geometry.coordinates;
+                let marker = L.marker([coords[1], coords[0]]);
+
+                // bind a tooltip to the marker
+                marker.bindTooltip("Carpool Lot Name: " + feature.properties.FACL_NAME);
+
+                // add the marker to the markerClusterGroup
+                markers.addLayer(marker);
+
+            });
+            // add the markerClusterGroup to the map
+            map.addLayer(markers);
         }
     </script>
 </body>
