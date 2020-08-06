@@ -11,3 +11,8 @@ mapshaper MDOT_Regions.shp -info
 
 To filter the shapefile down to only the desired attributes I used the following command:
 mapshaper MDOT_Regions.shp -filter-fields FipsCounty,Name,OfficeCity -simplify dp 15% -o precision=.0001 format=geojson ../../data/mdot-regions.json
+
+Ran app.js script to pull Earth color palette from CARTOColors.
+
+Installed csv2geojson in order to parse park and ride lot locations (downloaded from MDOT in CSV format) to JSON.
+

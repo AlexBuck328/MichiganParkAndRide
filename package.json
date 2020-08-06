@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlexBuck328/MichiganParkAndRide.git"
+    "url": ""
   },
   "author": "Alex Buck",
   "license": "ISC",
@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AlexBuck328/MichiganParkAndRide#readme",
   "dependencies": {
-    "chalk": "^4.1.0"
-  }
+    "chalk": "^4.1.0",
+    "csv2geojson": "^5.1.1"
+  },
+ "type": "module" 
 }
