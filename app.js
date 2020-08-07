@@ -8,10 +8,10 @@ const data = JSON.parse(rawData);
 
 // create a new object with key 'Emrld' and value the object
 const outputData = {
-    'Earth': data['Earth']
+    'Earth': data['Antique']
 };
 
 // write the output file, stringifying the JS object
-fs.writeFileSync('data/earthcolors.json', JSON.stringify(outputData));
+fs.writeFileSync('data/antiquecolors.json', JSON.stringify(outputData));
 
-console.log('data/earthcolors.json written to file!');
+console.log('data/antiquecolors.json written to file!');

@@ -62,7 +62,7 @@
 
     <div id="ui">
         <h3>Michigan DOT Regions</h3>
-        <h4>Carpool Lots</h4>
+        <h4>(Carpool Lots)</h4>
         <ul id="legend-list"></ul>
     </div>
 
@@ -80,14 +80,16 @@
         const map = L.map('map', options);
 
         // add CARTO voyager tiles with no labels
-        L.tileLayer('https://cartodb-basemaps-{s}.global.ssl.fastly.net/rastertiles/voyager_nolabels/{z}/{x}/{y}.png', {
+        L.tileLayer('https://tiles.stadiamaps.com/tiles/alidade_smooth_dark/{z}/{x}/{y}{r}.png', {
+            // 'https://cartodb-basemaps-{s}.global.ssl.fastly.net/rastertiles/voyager_nolabels/{z}/{x}/{y}.png', {
             maxZoom: 18,
-            attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy;<a href="https://carto.com/attribution">CARTO</a>'
+            attribution: '&copy; <a href="https://stadiamaps.com/">Stadia Maps</a>, &copy; <a href="https://openmaptiles.org/">OpenMapTiles</a> &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors'
+            // '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>, &copy;<a href="https://carto.com/attribution">CARTO</a>'
         }).addTo(map);
 
         // use D3 fetch to request data with async requests
         const regionsData = d3.json('data/mdot-region-counts.json');
-        const colorsData = d3.json('data/earthcolors.json');
+        const colorsData = d3.json('data/antiquecolors.json');
         const carpoolData = d3.json('data/mdot-carpool-lots.json');
 
         // use Promise to wait until data is all loaded
