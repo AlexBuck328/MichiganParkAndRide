@@ -61,7 +61,7 @@
     <div id="map"></div>
 
     <div id="ui">
-        <h3>Michigan DOT Regions</h3>
+        <h3>Michigan Carpool Lots by DOT Region</h3>
         <h4>(Carpool Lots)</h4>
         <ul id="legend-list"></ul>
     </div>
@@ -183,7 +183,7 @@
                 let marker = L.marker([coords[1], coords[0]]);
 
                 // bind a tooltip to the marker
-                marker.bindTooltip("Carpool Lot Name: " + feature.properties.FACL_NAME);
+                marker.bindTooltip("<b>Carpool Lot Name:</b> " + feature.properties.FACL_NAME);
 
                 // add the marker to the markerClusterGroup
                 markers.addLayer(marker);
@@ -254,10 +254,12 @@
                 var num = this.id.replace('region-', '');
                 // send this number as an argument to the zoomTo function
                 zoomTo(num);
+                // verify region number
                 console.log(num)
             });
 
             function zoomTo(regionNum) {
+                // verify region number
                 console.log(regionNum)
 
                 // loop through the regions polygons
@@ -266,11 +268,10 @@
                     if (layer.feature.properties.Code == regionNum) {
                         // center and zoom to region
                         map.flyTo(regionsMDOT[regionNum].center, regionsMDOT[regionNum].zoom)
-
                     }
                 });
             }
-        }
+        } // end drawMap()
 
         // View how the map properties change
         map.on("move", function () {
