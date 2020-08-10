@@ -16,6 +16,15 @@
             padding: 0;
         }
 
+        h1 {
+            position: absolute;
+            right: 18px;
+            padding: 6px 12px;
+            z-index: 1000;
+            background: rgba(256, 256, 256, .8);
+            border-radius: 5px;
+        }
+
         #map {
             position: absolute;
             width: 100%;
@@ -30,7 +39,8 @@
             bottom: 18px;
             right: 18px;
             padding: 6px 12px;
-            background: rgba(256, 256, 256, .9);
+            background: rgba(256, 256, 256, .8);
+            border-radius: 5px;
         }
 
         #ui ul {
@@ -57,11 +67,12 @@
 </head>
 
 <body>
+    <h1>Michigan Carpool Lots by DOT Region</h1>
 
     <div id="map"></div>
 
     <div id="ui">
-        <h3>Michigan Carpool Lots by DOT Region</h3>
+        <h3>MDOT Region</h3>
         <h4>(Carpool Lots)</h4>
         <ul id="legend-list"></ul>
     </div>
