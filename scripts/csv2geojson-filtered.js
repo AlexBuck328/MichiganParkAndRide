@@ -44,7 +44,7 @@ function filterFields(geojson) {
         // loop through each of the properties for that feature
         for (var prop in feature.properties) {
             // if it's a match
-            if (prop === 'FACL_NAME' || prop === 'CRPL_DRTN_') {
+            if (prop === 'FACL_NAME' || prop === 'FACL_ID') {
                 // create the prop/value
                 tempProps[prop] = feature.properties[prop];
             }
