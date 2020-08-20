@@ -99,7 +99,7 @@
         }).addTo(map);
 
         // use D3 fetch to request data with async requests
-        const regionsData = d3.json('data/mdot-region-counts.json');
+        const regionsData = d3.json('data/mdot-region-counts-simplified.json');
         const colorsData = d3.json('data/antiquecolors.json');
         const carpoolData = d3.json('data/mdot-carpool-lots.json');
 
@@ -152,7 +152,15 @@
                         // select the cooresponding list item
                         // and add the highlight class to make bold
                         $('#region-' + feature.properties.Code).addClass('highlight');
-                    })
+                    });
+
+                    //when mousing off a polygon layer
+                    layer.on('mouseout', function () {
+                    // provide a visual affordance
+                        this.setStyle({
+                            fillOpacity: .6
+                        });
+                    });
                 }
             }).addTo(map);
 
@@ -203,61 +211,6 @@
             // add the markerClusterGroup to the map
             map.addLayer(markers);
 
-            var regionsMDOT = {
-                1: {
-                    zoom: 8,
-                    center: {
-                        lat: 46.60982785835103,
-                        lng: -86.53381347656251
-                    }
-                },
-                2: {
-                    zoom: 9,
-                    center: {
-                        lat: 44.98519915760114,
-                        lng: -84.69085693359376
-                    }
-                },
-                3: {
-                    zoom: 9,
-                    center: {
-                        lat: 43.28820233071705,
-                        lng: -85.6494140625
-                    }
-                },
-                4: {
-                    zoom: 9,
-                    center: {
-                        lat: 43.37211393444652,
-                        lng: -83.79547119140626
-                    }
-                },
-                5: {
-                    zoom: 9,
-                    center: {
-                        lat: 42.017672114390415,
-                        lng: -85.75653076171875
-                    }
-                },
-                6: {
-                    zoom: 9,
-                    center: {
-                        lat: 42.31286205312125,
-                        lng: -84.23492431640626
-                    }
-                },
-                7: {
-                    zoom: 10,
-                    center: {
-                        lat: 42.47564212696649,
-                        lng: -83.18161010742189
-                    }
-                }
-            }
-            // verify access to regionsMDOT
-            console.log(regionsMDOT)
-
-
             // select all the list items and on click
             $('.legend-item').on('click', function () {
                 // extract the specific number from the specific item
@@ -278,7 +231,9 @@
                     // if the region id matches the one we're mousing over
                     if (layer.feature.properties.Code == regionNum) {
                         // center and zoom to region
-                        map.flyTo(regionsMDOT[regionNum].center, regionsMDOT[regionNum].zoom)
+                        map.flyToBounds(layer.getBounds(), {
+                            padding: [30, 30]
+                        })
                     }
                 });
             }
