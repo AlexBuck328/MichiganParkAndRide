@@ -6,7 +6,7 @@ const rawData = fs.readFileSync('data/cartocolors.json');
 // use JSON.parse() to parse raw string to JSON
 const data = JSON.parse(rawData);
 
-// create a new object with key 'Emrld' and value the object
+// create a new object with key 'Antique' and value the object
 const outputData = {
     'Earth': data['Antique']
 };
